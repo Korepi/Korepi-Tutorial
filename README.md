@@ -20,8 +20,7 @@
 ---
 
 ## ✨ Latest Note
-- Project moved to [Korepi](https://github.com/Korepi/Korepi-Private-Repo).
-- To contribute, contact any staff in our discord server.
+- The main project has been moved to [Korepi](https://github.com/Korepi/Korepi).
 
 ---
 
