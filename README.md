@@ -24,8 +24,41 @@
 
 ---
 
-## ❓ Getting Started
+## ❓ For Public Users
 
+### Release
+1. Head over to the [releases page](https://github.com/Korepi/keyauth-cpp-library/releases)
+2. Download the `P` Releases (ex. [P5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/P5))
+
+### Usage
+1. Ensure that `telemetry.dll` is in the same folder that `injector.exe`.
+2. Run `injector.exe`.
+3. Select `GenshinImpact.exe` or `YuanShen.exe`.
+4. Game will be launched automatically, wait for interface to appear.
+5. Press `TAB` to open [Korepi](https://github.com/Korepi/Korepi) GUI.
+
+<a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
+
+## ❓ For Fans (Required Fan Role)
+
+### Release
+1. Head over to the [releases page](https://github.com/Korepi/keyauth-cpp-library/releases)
+2. Download the `F` Releases (ex. [F4](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F4))
+
+### Usage
+1. Ensure that `telemetry.dll` is in the same folder that `injector.exe`.
+2. Run `injector.exe`.
+3. Select `GenshinImpact.exe` or `YuanShen.exe`.
+4. Go to our discord general chats and type `/claim` to get a key.
+
+<a href="#"><img width="270" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128154014484275340/image.png"></a>
+<a href="#"><img width="720" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128155105569558638/Untitled.png"></a>
+
+5. Copy the key you got into the injector.
+6. Game will be launched automatically, wait for interface to appear.
+7. Press `TAB` to open [Korepi](https://github.com/Korepi/Korepi) GUI.
+
+<a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 
 ---
 ## ⚠ Disclaimer
