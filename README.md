@@ -33,7 +33,7 @@
 ### Usage
 1. Ensure that `telemetry.dll` is in the same folder that `injector.exe`.
 2. Run `injector.exe`.
-3. Select `GenshinImpact.exe` or `YuanShen.exe`.
+3. Select `GenshinImpact.exe` or `YuanShen.exe`. (check `cfg.ini` to see if the injector chose the right game path)
 4. Game will be launched automatically, wait for the interface to appear.
 5. Press `TAB` to open [Korepi](https://github.com/Korepi/Korepi) GUI.
 
@@ -48,7 +48,7 @@
 ### Usage
 1. Ensure that `telemetry.dll` is in the same folder that `injector.exe`.
 2. Run `injector.exe`.
-3. Select `GenshinImpact.exe` or `YuanShen.exe`.
+3. Select `GenshinImpact.exe` or `YuanShen.exe`. (check `cfg.ini` to see if the injector chose the right game path)
 4. Go to [our discord](https://discord.gg/cottonbuds) general chats and type `/claim` to get a key.
 
 <a href="#"><img width="270" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128154014484275340/image.png"></a>
