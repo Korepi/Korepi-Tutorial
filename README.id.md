@@ -29,7 +29,7 @@
 
 ### Rilis
 1. Buka halaman [rilis](https://github.com/Korepi/keyauth-cpp-library/releases)
-2. Unduh rilisan terbaru yang berlabel awalan `P` (contoh: [P5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/P5))
+2. Unduh rilisan terbaru dengan label berawalan `P` (contoh: [P5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/P5))
 
 ### Cara Menggunakan
 1. Pastikan `telemetry.dll` berada di folder yang sama dengan `injector.exe`.
@@ -44,7 +44,7 @@
 
 ### Rilis
 1. Buka halaman [rilis](https://github.com/Korepi/keyauth-cpp-library/releases)
-2. Unduh rilisan terbaru yang berlabel awalan `F` (contoh: [F4](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F4))
+2. Unduh rilisan terbaru dengan label berawalan `F` (contoh: [F4](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F4))
 
 ### Cara Menggunakan
 1. Pastikan `telemetry.dll` berada di folder yang sama dengan `injector.exe`.
@@ -64,4 +64,4 @@
 ---
 ## ⚠ Disclaimer
 - Resiko ditanggung sendiri ya, kalo ke-ban jgn nangis.
-- Sebisa mungkin jangan menyebar screenshot atau video tentang penggunaan cheat ini.
+- Demi kemanan, kami mengingatkan untuk tidak menyebar screenshot, vidio, atau info dll. tentang penggunaan cheat ini.
