@@ -34,7 +34,7 @@
 1. Ensure that `telemetry.dll` is in the same folder that `injector.exe`.
 2. Run `injector.exe`.
 3. Select `GenshinImpact.exe` or `YuanShen.exe`.
-4. Game will be launched automatically, wait for interface to appear.
+4. Game will be launched automatically, wait for the interface to appear.
 5. Press `TAB` to open [Korepi](https://github.com/Korepi/Korepi) GUI.
 
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
@@ -49,18 +49,18 @@
 1. Ensure that `telemetry.dll` is in the same folder that `injector.exe`.
 2. Run `injector.exe`.
 3. Select `GenshinImpact.exe` or `YuanShen.exe`.
-4. Go to our discord general chats and type `/claim` to get a key.
+4. Go to [our discord](https://discord.gg/cottonbuds) general chats and type `/claim` to get a key.
 
 <a href="#"><img width="270" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128154014484275340/image.png"></a>
 <a href="#"><img width="720" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128155105569558638/Untitled.png"></a>
 
 5. Copy the key you got into the injector.
-6. Game will be launched automatically, wait for interface to appear.
+6. Game will be launched automatically, wait for the interface to appear.
 7. Press `TAB` to open [Korepi](https://github.com/Korepi/Korepi) GUI.
 
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 
 ---
 ## ⚠ Disclaimer
-- Use as your own risk.
+- Use at your own risk.
 - **Do not spread info about you using some third-party software**, and you shall be good. You've been warned.
