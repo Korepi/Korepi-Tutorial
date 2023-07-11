@@ -51,10 +51,10 @@
 1. Убедитесь, что `telemetry.dll` находится в той же папке, что и `injector.exe`. (не рекомендуется закидывать файлы инжектора в папку с игрой)
 2. Запустите `injector.exe`.
 3. Когда инжектор попросит в окне указать путь к игре, выберите файл `GenshinImpact.exe` или `YuanShen.exe` внутри папки с игрой.
-4. Перейдите в [наш Discord](https://discord.gg/cottonbuds) в общие чаты и наберите /claim, чтобы получить ключ.
+4. Перейдите в [наш Discord](https://discord.gg/cottonbuds) в общие чаты и наберите /getkey, чтобы получить ключ.
 
-<a href="#"><img width="270" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128154014484275340/image.png"></a>
-<a href="#"><img width="720" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128155105569558638/Untitled.png"></a>
+<a href="#"><img width="270" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
+<a href="#"><img width="720" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128329417521889350/Untitled.png"></a>
 
 5. Скопируйте ключ, который вы получили, в инжектор, когда он его запросит.
 6. GИгра запустится автоматически, дождитесь появления интерфейса.
