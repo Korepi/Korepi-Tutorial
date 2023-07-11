@@ -50,10 +50,10 @@
 1. Pastikan `telemetry.dll` berada di folder yang sama dengan `injector.exe`.
 2. Jalankan `injector.exe` dengan double-click.
 3. Pilih `GenshinImpact.exe` atau `YuanShen.exe`. (periksa file `cfg.ini` untuk melihat apakah lokasi permainan sudah benar)
-4. Join [discord kami](https://discord.gg/cottonbuds), pilih channel `Chat` dan ketik `/claim` untuk mendapatkan kunci.
+4. Join [discord kami](https://discord.gg/cottonbuds), pilih channel `micah-bot-verify` dan ketik `/getkey` untuk mendapatkan kunci.
 
-<a href="#"><img width="270" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128154014484275340/image.png"></a>
-<a href="#"><img width="720" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128155105569558638/Untitled.png"></a>
+<a href="#"><img width="270" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
+<a href="#"><img width="720" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128329417521889350/Untitled.png"></a>
 
 5. Salin kunci yang Anda dapatkan ke injektor saat diminta.
 6. Game akan diluncurkan secara otomatis, tunggu sampai tampilannya muncul.
