@@ -47,7 +47,7 @@
 
 ### Release
 1. Head over to the [releases page](https://github.com/Korepi/keyauth-cpp-library/releases)
-2. Download the `F` Releases (ex. [F4](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F4))
+2. Download the `F` Releases (ex. [F5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F5))
 
 ### Usage
 1. Run `injector.exe`.
