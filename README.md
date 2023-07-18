@@ -57,9 +57,9 @@
 <a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
 <a href="#"><img width="700" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128329417521889350/Untitled.png"></a>
 
-5. Copy the key you got into the injector when it asked.
-6. Game will be launched automatically, wait for the interface to appear.
-7. Press `TAB` to open [Korepi](https://github.com/Korepi/Korepi) GUI.
+4. Copy the key you got into the injector when it asked.
+5. Game will be launched automatically, wait for the interface to appear.
+6. Press `TAB` to open [Korepi](https://github.com/Korepi/Korepi) GUI.
 
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 
