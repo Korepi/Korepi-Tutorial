@@ -50,17 +50,16 @@
 2. Descargue las versiones `F` (Ej. [F4](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F4))
 
 ### Uso
-1. Asegúrese que `telemetry.dll` esté en la misma carpeta que `injector.exe`.
-2. Ejecute `injector.exe`.
-3. Seleccione `GenshinImpact.exe` o `YuanShen.exe`. (Verifique `cfg.ini`para ver si el injector colocó la ruta correcta en el archivo)
-4. Vaya al canal `micah-bot-verify` en [nuestro Discord](https://discord.gg/cottonbuds) y escriba `/getkey` para obtener una llave.
+1. Ejecute `injector.exe`.
+2. Seleccione `GenshinImpact.exe` o `YuanShen.exe`. (Verifique `cfg.ini`para ver si el injector colocó la ruta correcta en el archivo)
+3. Vaya al canal `micah-bot-verify` en [nuestro Discord](https://discord.gg/cottonbuds) y escriba `/getkey` para obtener una llave.
 
 <a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
 <a href="#"><img width="700" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128329417521889350/Untitled.png"></a>
 
-5. Copie la llave que obtuvo y péguela en el inyector cuando la requiera.
-4. El juego se lanzará automáticamente, espere a que la interfaz aparezca.
-5. Presione `TAB` Para abrir la interfaz de [Korepi](https://github.com/Korepi/Korepi).
+4. Copie la llave que obtuvo y péguela en el inyector cuando la requiera.
+5. El juego se lanzará automáticamente, espere a que la interfaz aparezca.
+6. Presione `TAB` Para abrir la interfaz de [Korepi](https://github.com/Korepi/Korepi).
 
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 
