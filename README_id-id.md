@@ -47,7 +47,7 @@
 
 ### Rilis
 1. Buka halaman [rilis](https://github.com/Korepi/keyauth-cpp-library/releases)
-2. Unduh rilisan terbaru dengan label berawalan `F` (contoh: [F4](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F4))
+2. Unduh rilisan terbaru dengan label berawalan `F` (contoh: [F5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F5))
 
 ### Cara Menggunakan
 1. Jalankan `injector.exe` dengan double-click.
