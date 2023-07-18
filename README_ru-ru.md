@@ -50,17 +50,16 @@
 2. Скачайте `F` версию (например. [F4](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F4))
 
 ### Использование
-1. Убедитесь, что `telemetry.dll` находится в той же папке, что и `injector.exe`. (не рекомендуется закидывать файлы инжектора в папку с игрой)
-2. Запустите `injector.exe`.
-3. Когда инжектор попросит в окне указать путь к игре, выберите файл `GenshinImpact.exe` или `YuanShen.exe` внутри папки с игрой.
-4. Перейдите в [наш Discord](https://discord.gg/cottonbuds) в общие чаты и наберите /getkey, чтобы получить ключ.
+1. Запустите `injector.exe`.
+2. Когда инжектор попросит в окне указать путь к игре, выберите файл `GenshinImpact.exe` или `YuanShen.exe` внутри папки с игрой.
+3. Перейдите в [наш Discord](https://discord.gg/cottonbuds) в общие чаты и наберите /getkey, чтобы получить ключ.
 
 <a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
 <a href="#"><img width="700" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128329417521889350/Untitled.png"></a>
 
-5. Скопируйте ключ, который вы получили, в инжектор, когда он его запросит.
-6. GИгра запустится автоматически, дождитесь появления интерфейса.
-5. Нажмите `TAB`, чтобы открыть графический интерфейс [Korepi](https://github.com/Korepi/Korepi).
+4. Скопируйте ключ, который вы получили, в инжектор, когда он его запросит.
+5. GИгра запустится автоматически, дождитесь появления интерфейса.
+6. Нажмите `TAB`, чтобы открыть графический интерфейс [Korepi](https://github.com/Korepi/Korepi).
 
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 
