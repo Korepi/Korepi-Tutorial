@@ -50,17 +50,16 @@
 2. Unduh rilisan terbaru dengan label berawalan `F` (contoh: [F4](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F4))
 
 ### Cara Menggunakan
-1. Pastikan `telemetry.dll` berada di folder yang sama dengan `injector.exe`.
-2. Jalankan `injector.exe` dengan double-click.
-3. Pilih `GenshinImpact.exe` atau `YuanShen.exe`. (periksa file `cfg.ini` untuk melihat apakah lokasi permainan sudah benar)
-4. Join [discord kami](https://discord.gg/cottonbuds), pilih channel `micah-bot-verify` dan ketik `/getkey` untuk mendapatkan kunci.
+1. Jalankan `injector.exe` dengan double-click.
+2. Pilih `GenshinImpact.exe` atau `YuanShen.exe`. (periksa file `cfg.ini` untuk melihat apakah lokasi permainan sudah benar)
+3. Join [discord kami](https://discord.gg/cottonbuds), pilih channel `micah-bot-verify` dan ketik `/getkey` untuk mendapatkan kunci.
 
 <a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
 <a href="#"><img width="700" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128329417521889350/Untitled.png"></a>
 
-5. Salin kunci yang Anda dapatkan ke injektor saat diminta.
-6. Game akan diluncurkan secara otomatis, tunggu sampai tampilannya muncul.
-7. Tekan `TAB` untuk membuka menu [Korepi](https://github.com/Korepi/Korepi) GUI.
+4. Salin kunci yang Anda dapatkan ke injektor saat diminta.
+5. Game akan diluncurkan secara otomatis, tunggu sampai tampilannya muncul.
+6. Tekan `TAB` untuk membuka menu [Korepi](https://github.com/Korepi/Korepi) GUI.
 
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 
