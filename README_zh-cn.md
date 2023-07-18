@@ -50,17 +50,16 @@
 2. 下载`F`版本 (ex. [F4](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F4))
 
 ### 使用方法
-1. 确认 `telemetry.dll` 跟 `injector.exe` 处在同一个文件夹内.
-2. 运行 `injector.exe`.
-3. 选择 `Yuanshen.exe` 或者 `GenshinImpact.exe`(检查`cfg.ini`查看injector是否选择了正确的游戏路径)
-4. 前往 [our discord](https://discord.gg/cottonbuds) `micah-bot-verify` 频道并输入 `/getkey` 来获取密钥.
+1. 运行 `injector.exe`.
+2. 选择 `Yuanshen.exe` 或者 `GenshinImpact.exe`(检查`cfg.ini`查看injector是否选择了正确的游戏路径)
+3. 前往 [our discord](https://discord.gg/cottonbuds) `micah-bot-verify` 频道并输入 `/getkey` 来获取密钥.
 
 <a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
 <a href="#"><img width="700" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128329417521889350/Untitled.png"></a>
 
-5. 当injector提示`Enter license`时，将您获得的钥匙复制到injector中.
-6. 游戏将自动启动，等待界面出现.
-7. 按下 `TAB` 键以打开 [Korepi](https://github.com/Korepi/Korepi) 的GUI菜单.
+4. 当injector提示`Enter license`时，将您获得的钥匙复制到injector中.
+5. 游戏将自动启动，等待界面出现.
+6. 按下 `TAB` 键以打开 [Korepi](https://github.com/Korepi/Korepi) 的GUI菜单.
 
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 
