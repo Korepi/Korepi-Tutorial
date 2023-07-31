@@ -16,6 +16,7 @@
     <td valign="center"><a href="README_pt-br.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1e7-1f1f7.svg" width="16"/> Português (BR)</td>
     <td valign="center"><a href="README_ru-ru.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1f7-1f1fa.svg" width="16"/> Русский</a></td>
     <td valign="center"><a href="README_id-id.md"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-indonesia_1f1ee-1f1e9.png" width="16"/> Indonesia</td>
+    <td valign="center"><a href="README_ua-ua.md"><img src="https://github.com/Andrew1397/Ukraine/blob/main/Flag_of_Ukraine.png" width="16"/> Українська</a></td>
     <td valign="center"><img src="https://twemoji.maxcdn.com/v/13.0.0/svg/1f1e8-1f1f1.svg" width="16"/> Español (CL)</td>
     <td valign="center"><a href="README_zh-cn.md"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-china_1f1e8-1f1f3.png" width="16"/> 简中</a> </td>
   </tr>
@@ -25,6 +26,7 @@
 ---
 
 ## ✨ Última nota
+
 - El proyecto ha sido trasladado a [Korepi](https://github.com/Korepi/Korepi).
 
 ---
@@ -32,10 +34,12 @@
 ## ❓ Para Público General
 
 ### Lanzamientos (Releases)
+
 1. Vaya a la [página de lanzamientos (Releases)](https://github.com/Korepi/keyauth-cpp-library/releases)
 2. Descargue las versiones `P` (Ej. [P5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/P5))
 
 ### Uso
+
 1. Asegúrese que `telemetry.dll` esté en la misma carpeta que `injector.exe`.
 2. Ejecute `injector.exe`.
 3. Seleccione `GenshinImpact.exe` o `YuanShen.exe`. (Verifique `cfg.ini`para ver si el inyector colocó la ruta correcta en el archivo)
@@ -47,10 +51,12 @@
 ## ❓ Para Fans (Requiere el Rol de Fan)
 
 ### Lanzamientos (Releases)
+
 1. Vaya a la [página de lanzamientos (Releases)](https://github.com/Korepi/keyauth-cpp-library/releases)
 2. Descargue las versiones `F` (Ej. [F6](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F6))
 
 ### Uso
+
 1. Ejecute `injector.exe`.
 2. Seleccione `GenshinImpact.exe` o `YuanShen.exe`. (Verifique `cfg.ini`para ver si el injector colocó la ruta correcta en el archivo)
 3. Vaya al canal `micah-bot-verify` en [nuestro Discord](https://discord.gg/cottonbuds) y escriba `/getkey` para obtener una llave.
@@ -65,6 +71,8 @@
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 
 ---
+
 ## ⚠ Descargo de responsabilidad (Disclaimer)
+
 - Utilícelo bajo su propia responsabilidad.
 - Advertencia: **No difunda información sobre usted utilizando software de terceros**, y todo irá bien.
