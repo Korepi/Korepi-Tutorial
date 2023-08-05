@@ -52,6 +52,8 @@
 
 [![VIDEO TUTORIAL](https://srhscollaborationsuite.weebly.com/uploads/3/8/4/0/38407301/watch-deaddrop-video-button-img_1_orig.png)](http://www.youtube.com/watch?v=sGJVT8YMM6Q "How to use Korepi for PUBLIC")
 
+---
+
 ## ❓ For Fans (Required Fan Role)
 
 ### Release
