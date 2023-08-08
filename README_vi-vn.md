@@ -37,7 +37,7 @@
 ### Bản chính thức
 
 1. Di chuyển đến các [bản phát hành chính thức](https://github.com/Korepi/keyauth-cpp-library/releases)
-2. Tải về `P` Bản phát hành chính thức (ex. [P5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/P5))
+2. Tải xuống phiên bản `P` chính thức (ex. [P5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/P5))
 
 ### Cách để bạn có thể sử dụng [Korepi](https://github.com/Korepi/Korepi).
 
@@ -60,7 +60,7 @@
 ### Bản chính thức
 
 1. Di chuyển tới các bản phát [hành chính thức](https://github.com/Korepi/keyauth-cpp-library/releases)
-2. Tải xuống phiên bản `F` Chính thức (ex. [F6](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F6))
+2. Tải xuống phiên bản `F` chính thức (ex. [F6](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F6))
 
 ### Cách để bạn có thể sử dụng [Korepi](https://github.com/Korepi/Korepi) với role Fans.
 
@@ -83,32 +83,36 @@
 
 ---
 
-## ❓ MICAH's BUILDS Tutorials
+## ❓ Hướng dẫn đổi với bản dựng của MICAH's
 
-### Release
+### Phiên bản chính thức
 
-1. Head over to the [releases page](https://github.com/Korepi/korepi-online-data/releases)
-2. Download the `v0.x.x` Releases (ex. [v0.9.4](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.4))
+1. Di chuyển tới các bản phát [hành chính thức](https://github.com/Korepi/korepi-online-data/releases)
+2. Tải xuống phiên bản `v0.x.x` chính thức (ex. [v0.9.4](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.4))
 
-### Usage
+### Cách để bạn có thể sử dụng [Korepi](https://github.com/Korepi/Korepi) bản dựng MICAH's .
 
-1. Run `v0.x.x.exe`.
-2. Go to [our discord](https://discord.gg/cottonbuds) `micah-bot-verify` channel and type `/verify` then paste your `HWID` displaying in **console** to get a **key file**.
+1. Khởi chạy file `v0.x.x.exe`.
+2. Truy cập [vào máy chủ discord](https://discord.gg/cottonbuds) ở kênh `micah-bot-verify` bạn hãy gõ lệnh `/verify`như hình bên dưới, sau đó hãy dán `HWID` được hiện thị trong **bản điều khiển** để có thể lấy được **giấy phép truy cập**.
 
 <a href="#"><img width="965" height="415" src="https://media.discordapp.net/attachments/1126893908597669989/1138425541838516294/Untitled.png"></a>
 <a href="#"><img width="1324" height="320" src="https://media.discordapp.net/attachments/1126893908597669989/1138426358217842858/Untitled.png"></a>
 
-3. Download the **key file** and put it into the folder ensure that `enc.json` is in the same folder that `v0.x.x.exe`
-4. Run `v0.x.x.exe` again.
-5. Select `GenshinImpact.exe` or `YuanShen.exe`. (check `cfg.ini` to see if the injector chose the right game path)
-6. Game will be launched automatically, wait for the interface to appear.
-7. Press `TAB` to open [Korepi](https://github.com/Korepi/Korepi) GUI.
+3. Tải xuống **file key** và đặt nó vào thư mục, lưu ý rằng `enc.json` phải ở cùng mộit thư mục cùng với file chạy `v0.x.x.exe`
+4. Khởi chạy lại `v0.x.x.exe` lần nữa.
+5. Chọn file chạy game `GenshinImpact.exe` hoặc `YuanShen.exe` (YuanShen là đối với phiên bản trung quốc). (kiểm tra `cfg.ini` để xem bạn có chọn đúng thư mục cũng như file chạy của game hay không)
+6. Trò chơi sẽ tự động được khởi chạy tự động vì vậy hãy kiên trì và chờ giao diện xuất hiện.
+7. Nhấn phím `TAB` để mở dao diện [Korepi](https://github.com/Korepi/Korepi).
 
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 
 ---
 
-## ⚠ Disclaimer
+## ⚠ TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM
 
-- Use at your own risk.
-- **Do not spread info about you using some third-party software**, and you shall be good. You've been warned.
+- Sự dụng công cụ trên sẽ có nguy cơ tiềm ẩn.
+- **Xin vui lòng không lan truyền cũng như cho người khác biết về việc bạn đang sử dụng phần mềm thứ 3**, đều này sẽ giúp bạn an toàn. "BẠN ĐÃ ĐƯỢC CẢNH BÁO TRƯỚC".
+
+## NOTE: Mô tả được dịch lại và viết thêm bởi Aojiro - Vui lòng liên hệ các Quản Trị Viên, Translator trong [máy chủ discord](https://discord.gg/cottonbuds) nếu Có Sai Sót 
+
+
