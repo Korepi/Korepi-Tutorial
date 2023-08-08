@@ -113,6 +113,9 @@
 - Sự dụng công cụ trên sẽ có nguy cơ tiềm ẩn.
 - **Xin vui lòng không lan truyền cũng như cho người khác biết về việc bạn đang sử dụng phần mềm thứ 3**, đều này sẽ giúp bạn an toàn. "BẠN ĐÃ ĐƯỢC CẢNH BÁO TRƯỚC".
 
-## NOTE: Mô tả được dịch lại và viết thêm bởi Aojiro - Vui lòng liên hệ các Quản Trị Viên, Translator trong [máy chủ discord](https://discord.gg/cottonbuds) nếu Có Sai Sót 
+---
+
+## NOTE: 
+- Mô tả được dịch lại và viết thêm bởi Aojiro - Vui lòng liên hệ các Quản Trị Viên, Translator trong [máy chủ discord](https://discord.gg/cottonbuds) nếu Có Sai Sót 
 
 
