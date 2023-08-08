@@ -92,7 +92,7 @@
 ### Usage
 
 1. Run `v0.x.x.exe`.
-2. Go to [our discord](https://discord.gg/cottonbuds) `micah-bot-verify` channel and type `/verify` and paste your `HWID` displaying in **console** to get a **key file**.
+2. Go to [our discord](https://discord.gg/cottonbuds) `micah-bot-verify` channel and type `/verify` then paste your `HWID` displaying in **console** to get a **key file**.
 
 <a href="#"><img width="965" height="415" src="https://media.discordapp.net/attachments/1126893908597669989/1138425541838516294/Untitled.png"></a>
 <a href="#"><img width="1324" height="320" src="https://media.discordapp.net/attachments/1126893908597669989/1138426358217842858/Untitled.png"></a>
