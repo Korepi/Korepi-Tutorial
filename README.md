@@ -30,6 +30,7 @@
   </tr>
 </table>
 </div>
+	    
 ---
 
 ## ✨ Latest Note
