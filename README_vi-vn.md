@@ -83,7 +83,7 @@
 
 ---
 
-## ❓ Hướng dẫn đổi với bản dựng của MICAH's
+## ❓ Hướng dẫn đối với bản dựng của MICAH's
 
 ### Phiên bản chính thức
 
