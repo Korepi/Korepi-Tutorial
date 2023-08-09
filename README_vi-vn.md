@@ -48,7 +48,7 @@
 
 ### Cách để bạn có thể sử dụng [Korepi](https://github.com/Korepi/Korepi).
 
-1. Đảm bảo rằng tập tin `telemetry.dll` phải nằm ở trong thư mục cùng với file chạy `injector.exe`.
+1. Đảm bảo rằng file `telemetry.dll` phải nằm ở trong thư mục cùng với file chạy `injector.exe`.
 2. Khởi chạy file `injector.exe`.
 3. Chọn file game `GenshinImpact.exe` hoặc `YuanShen.exe` (YuanShen là đối với phiên bản trung quốc). (kiểm tra `cfg.ini` để xem bạn có chọn đúng thư mục cũng như file game hay không)
 4. Trò chơi sẽ tự động được khởi chạy vì vậy hãy kiên trì và chờ giao diện xuất hiện.
