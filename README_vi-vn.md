@@ -33,9 +33,9 @@
 
 ---
 
-## ✨ Ghi chú các tính năng, nội dung mới nhất
+## ✨ Thông báo mới nhất
 
-- Dự án này đã được di chuyển đến [Korepi](https://github.com/Korepi/Korepi).
+- Dự án này đã được chuyển đến [Korepi](https://github.com/Korepi/Korepi).
 
 ---
 
@@ -43,16 +43,16 @@
 
 ### Bản chính thức
 
-1. Di chuyển đến các [bản phát hành chính thức](https://github.com/Korepi/keyauth-cpp-library/releases)
-2. Tải xuống phiên bản `P` chính thức (ex. [P5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/P5))
+1. Đi đến các [bản phát hành chính thức](https://github.com/Korepi/keyauth-cpp-library/releases)
+2. Tải xuống phiên bản `P` (VD: [P5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/P5))
 
 ### Cách để bạn có thể sử dụng [Korepi](https://github.com/Korepi/Korepi).
 
-1. Đảm bảo rành tập tin `telemetry.dll` phải năm ở trong thư mục cùng với file chạy `injector.exe`.
+1. Đảm bảo rằng file `telemetry.dll` phải nằm ở trong thư mục cùng với file chạy `injector.exe`.
 2. Khởi chạy file `injector.exe`.
-3. Chọn file chạy game `GenshinImpact.exe` hoặc `YuanShen.exe` (YuanShen là đối với phiên bản trung quốc). (kiểm tra `cfg.ini` để xem bạn có chọn đúng thư mục cũng như file chạy của game hay không)
-4. Trò chơi sẽ tự động được khởi chạy tự động vì vậy hãy kiên trì và chờ giao diện xuất hiện.
-5. Nhấn phím `TAB` để mở dao diện [Korepi](https://github.com/Korepi/Korepi).
+3. Chọn file game `GenshinImpact.exe` hoặc `YuanShen.exe` (YuanShen là đối với phiên bản trung quốc). (kiểm tra `cfg.ini` để xem bạn có chọn đúng thư mục cũng như file game hay không)
+4. Trò chơi sẽ tự động được khởi chạy vì vậy hãy kiên trì và chờ giao diện xuất hiện.
+5. Nhấn phím `TAB` để mở giao diện [Korepi](https://github.com/Korepi/Korepi).
 
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 
@@ -66,21 +66,21 @@
 
 ### Bản chính thức
 
-1. Di chuyển tới các bản phát [hành chính thức](https://github.com/Korepi/keyauth-cpp-library/releases)
-2. Tải xuống phiên bản `F` chính thức (ex. [F6](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F6))
+1. Đi tới các [bản phát hành chính thức](https://github.com/Korepi/keyauth-cpp-library/releases)
+2. Tải xuống phiên bản `F` (VD: [F6](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F6))
 
 ### Cách để bạn có thể sử dụng [Korepi](https://github.com/Korepi/Korepi) với role Fans.
 
 1. Khởi chạy file `injector.exe`.
-2. Chọn file chạy game `GenshinImpact.exe` hoặc `YuanShen.exe` (YuanShen là đối với phiên bản trung quốc). (kiểm tra `cfg.ini` để xem bạn có chọn đúng thư mục cũng như file chạy của game hay không)
-3. Truy cập [vào máy chủ discord](https://discord.gg/cottonbuds) ở kênh `micah-bot-verify` bạn hãy gõ lệnh `/getkey` như hình bên dưới để có thể lấy được key.
+2. Chọn file game `GenshinImpact.exe` hoặc `YuanShen.exe` (YuanShen là đối với phiên bản trung quốc). (kiểm tra `cfg.ini` để xem bạn có chọn đúng thư mục cũng như file game hay không)
+3. Truy cập vào [server discord](https://discord.gg/cottonbuds) ở kênh `micah-bot-verify` bạn hãy gõ lệnh `/getkey` như hình bên dưới để có thể lấy được key.
 
 <a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
 <a href="#"><img width="700" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128329417521889350/Untitled.png"></a>
 
 4. Sao chép key đăng nhập và dán nó vào injector sau khi được hỏi.
-5. Trò chơi sẽ tự động được khởi chạy tự động vì vậy hãy kiên trì và chờ giao diện xuất hiện.
-6. Nhấn phím `TAB` để mở dao diện [Korepi](https://github.com/Korepi/Korepi).
+5. Trò chơi sẽ tự động được khởi chạy vì vậy hãy kiên trì và chờ giao diện xuất hiện.
+6. Nhấn phím `TAB` để mở giao diện [Korepi](https://github.com/Korepi/Korepi).
 
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 
@@ -90,26 +90,26 @@
 
 ---
 
-## ❓ Hướng dẫn đối với bản dựng của MICAH's
+## ❓ Hướng dẫn đối với phiên bản của MICAH
 
 ### Phiên bản chính thức
 
-1. Di chuyển tới các bản phát [hành chính thức](https://github.com/Korepi/korepi-online-data/releases)
-2. Tải xuống phiên bản `v0.x.x` chính thức (ex. [v0.9.4](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.4))
+1. Đi tới các [bản phát hành chính thức](https://github.com/Korepi/korepi-online-data/releases)
+2. Tải xuống phiên bản `v0.x.x` (VD: [v0.9.4](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.4))
 
-### Cách để bạn có thể sử dụng [Korepi](https://github.com/Korepi/Korepi) bản dựng MICAH's .
+### Cách để bạn có thể sử dụng [Korepi](https://github.com/Korepi/Korepi) bản MICAH.
 
 1. Khởi chạy file `v0.x.x.exe`.
-2. Truy cập [vào máy chủ discord](https://discord.gg/cottonbuds) ở kênh `micah-bot-verify` bạn hãy gõ lệnh `/verify`như hình bên dưới, sau đó hãy dán `HWID` được hiện thị trong **bản điều khiển** để có thể lấy được **giấy phép truy cập**.
+2. Truy cập vào [máy chủ discord](https://discord.gg/cottonbuds) ở kênh `micah-bot-verify` bạn hãy gõ lệnh `/verify`như hình bên dưới, sau đó hãy dán `HWID` được hiển thị trong **bảng điều khiển** để có thể lấy được **giấy phép truy cập**.
 
 <a href="#"><img width="965" height="415" src="https://media.discordapp.net/attachments/1126893908597669989/1138425541838516294/Untitled.png"></a>
 <a href="#"><img width="1324" height="320" src="https://media.discordapp.net/attachments/1126893908597669989/1138426358217842858/Untitled.png"></a>
 
-3. Tải xuống **file key** và đặt nó vào thư mục, lưu ý rằng `enc.json` phải ở cùng mộit thư mục cùng với file chạy `v0.x.x.exe`
+3. Tải xuống **file key** và đặt nó vào thư mục, lưu ý rằng `enc.json` phải ở cùng thư mục với file `v0.x.x.exe`
 4. Khởi chạy lại `v0.x.x.exe` lần nữa.
-5. Chọn file chạy game `GenshinImpact.exe` hoặc `YuanShen.exe` (YuanShen là đối với phiên bản trung quốc). (kiểm tra `cfg.ini` để xem bạn có chọn đúng thư mục cũng như file chạy của game hay không)
-6. Trò chơi sẽ tự động được khởi chạy tự động vì vậy hãy kiên trì và chờ giao diện xuất hiện.
-7. Nhấn phím `TAB` để mở dao diện [Korepi](https://github.com/Korepi/Korepi).
+5. Chọn file game `GenshinImpact.exe` hoặc `YuanShen.exe` (YuanShen là đối với phiên bản trung quốc). (kiểm tra `cfg.ini` để xem bạn có chọn đúng thư mục cũng như file game hay không)
+6. Trò chơi sẽ tự động được khởi chạy vì vậy hãy kiên trì và chờ giao diện xuất hiện.
+7. Nhấn phím `TAB` để mở giao diện [Korepi](https://github.com/Korepi/Korepi).
 
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 
@@ -117,8 +117,8 @@
 
 ## ⚠ TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM
 
-- Sự dụng công cụ trên sẽ có nguy cơ tiềm ẩn.
-- **Xin vui lòng không lan truyền cũng như cho người khác biết về việc bạn đang sử dụng phần mềm thứ 3**, đều này sẽ giúp bạn an toàn. "BẠN ĐÃ ĐƯỢC CẢNH BÁO TRƯỚC".
+- Sử dụng hay không thì tùy bạn.
+- **Xin vui lòng không lan truyền cũng như cho người khác biết về việc bạn đang sử dụng phần mềm thứ 3**, điều này sẽ giúp bạn an toàn. BẠN ĐÃ ĐƯỢC CẢNH BÁO TRƯỚC.
 
 ---
 
