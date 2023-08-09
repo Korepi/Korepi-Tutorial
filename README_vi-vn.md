@@ -12,14 +12,21 @@
 <div align="center">
 <table>
   <tr>
-    <td valign="center"><a href="README.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1fa-1f1f8.svg" width="16"/> Tiếng Anh</td>
-    <td valign="center"><a href="README_pt-br.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1e7-1f1f7.svg" width="16"/> Tiếng Brazil (BR)</td>
-    <td valign="center"><a href="README_ru-ru.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1f7-1f1fa.svg" width="16"/> Tiếng Nga </a></td>
-    <td valign="center"><a href="README_id-id.md"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-indonesia_1f1ee-1f1e9.png" width="16"/> Tiếng Indonesia</td>
-    <td valign="center"><a href="README_ua-ua.md"><img src="https://github.com/Andrew1397/Ukraine/blob/main/Flag_of_Ukraine.png" width="16"/> Tiếng Ukraina</a></td>
-    <td valign="center"><a href="README_es-cl.md"><img src="https://twemoji.maxcdn.com/v/13.0.0/svg/1f1e8-1f1f1.svg" width="16"/> Tiếng Tây Ban Nha (CL)</td>
-    <td valign="center"><a href="README_zh-cn.md"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-china_1f1e8-1f1f3.png" width="16"/> Tiếng Trung </a></td>   
-    <td valign="center"><a href="README_vi-vn.md"><img src="https://media.istockphoto.com/id/1218811213/photo/flag-of-vietnam-blowing-in-the-wind.jpg?s=612x612&w=0&k=20&c=KEFTcKRummQobNUHBxPz8Ad-sMfHPaLGyxnMTvv5WTw=" width="16"/> Tiếng Việt </a></td>  
+    <td valign="center"><a href="README.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1fa-1f1f8.svg" width="16"/> English</td>
+    <td valign="center"><a href="README_pt-br.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1e7-1f1f7.svg" width="16"/> Português (BR)</td>
+    <td valign="center"><a href="README_ru-ru.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1f7-1f1fa.svg" width="16"/> Русский</a></td>
+    <td valign="center"><a href="README_ua-ua.md"><img src="https://github.com/Andrew1397/Ukraine/blob/main/Flag_of_Ukraine.png" width="16"/> Українська</a></td>
+    <td valign="center"><a href="README_es-cl.md"><img src="https://twemoji.maxcdn.com/v/13.0.0/svg/1f1e8-1f1f1.svg" width="16"/> Español (CL)</td>
+      
+  </tr>
+</table>
+</div>
+<div align="center">
+<table>
+  <tr>
+    <td valign="center"><a href="README_id-id.md"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-indonesia_1f1ee-1f1e9.png" width="16"/> Indonesia</td>
+    <td valign="center"><a href="README_zh-cn.md"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-china_1f1e8-1f1f3.png" width="16"/> 简中</a></td> 
+    <td valign="center"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-vietnam_1f1fb-1f1f3.png" width="16"/> Tiếng Việt </a></td>
   </tr>
 </table>
 </div>
