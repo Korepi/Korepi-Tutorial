@@ -33,7 +33,7 @@
 
 ---
 
-## ✨ Ghi chú mới nhất
+## ✨ Thông báo mới nhất
 
 - Dự án này đã được chuyển đến [Korepi](https://github.com/Korepi/Korepi).
 
