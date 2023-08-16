@@ -56,6 +56,12 @@
 
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 
+### Відеоінструкція
+
+[![VIDEO TUTORIAL](https://srhscollaborationsuite.weebly.com/uploads/3/8/4/0/38407301/watch-deaddrop-video-button-img_1_orig.png)](http://www.youtube.com/watch?v=sGJVT8YMM6Q "How to use Korepi for PUBLIC")
+
+---
+
 ## ❓ Для фанатів (необхідна роль "Fans" у Discord)
 
 ### Реліз
@@ -75,6 +81,35 @@
 4. Скопіюйте ключ, який ви отримали і вставте в інжектор, коли він попросить.
 5. Гра запуститься автоматично, дочекайтеся появи інтерфейсу.
 6. Натисніть `TAB`, щоб відкрити графічний інтерфейс [Korepi](https://github.com/Korepi/Korepi).
+
+<a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
+
+### Відеоінструкція
+
+[![VIDEO TUTORIAL](https://srhscollaborationsuite.weebly.com/uploads/3/8/4/0/38407301/watch-deaddrop-video-button-img_1_orig.png)](http://www.youtube.com/watch?v=imRL9g_Edew "How to use Korepi for PUBLIC")
+
+---
+
+## ❓ MICAH's версія
+
+### Реліз
+
+1. Перейдіть на [сторінку релізів](https://github.com/Korepi/korepi-online-data/releases)
+2. Завантажте `v0.x.x` версію (наприклад [v0.9.4](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.4))
+
+### Використання
+
+1. Запустіть `v0.x.x.exe`.
+2. Перейдіть на [наш Discord](https://discord.gg/cottonbuds) знайдіть `micah-bot-verify` і введіть `/verify`, а потім вставте ваш `HWID`, який відобразиться в **консолі**, що б отримати **ключовий файл**.
+
+<a href="#"><img width="965" height="415" src="https://media.discordapp.net/attachments/1126893908597669989/1138425541838516294/Untitled.png"></a>
+<a href="#"><img width="1324" height="320" src="https://media.discordapp.net/attachments/1126893908597669989/1138426358217842858/Untitled.png"></a>
+
+3. Завантажте **ключовий файл** і помістіть його в папку та переконайтеся, що `enc.json` знаходиться в тій самій папці, що й `v0.x.x.exe`.
+4. Запустіть `v0.x.x.exe` ще раз.
+5. Знайдіть і оберіть `GenshinImpact.exe` или `YuanShen.exe`. (перевірте `cfg.ini`, щоб переконатися, що інжектор вибрав правильний шлях до гри)
+6. Гра запуститься автоматично, дочекайтеся появи інтерфейсу.
+7. Натисніть `TAB`, щоб відкрити графічний інтерфейс [Korepi](https://github.com/Korepi/Korepi).
 
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 
