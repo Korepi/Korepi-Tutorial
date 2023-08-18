@@ -67,7 +67,7 @@
 ### Реліз
 
 1. Перейдіть на [сторінку релізів](https://github.com/Korepi/keyauth-cpp-library/releases)
-2. Завантажте `F` версію (наприклад [F6](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F6))
+2. Завантажте `F` версію (наприклад [F7](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F7))
 
 ### Використання
 
