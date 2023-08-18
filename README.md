@@ -35,7 +35,26 @@
 
 ## ✨ Latest Note
 
-- The main project has been moved to [Korepi](https://github.com/Korepi/Korepi).
+- Discord is now opened, you can join freely.
+
+---
+
+## ❓ HOW TO VERIFY & SIGN-IN DISCORD + GETTING FANS ROLE
+
+1. Join [Cotton Buds Discord](https://discord.gg/cottonbuds)
+2. You will receive the DM from **Double Counter** and click to **verify**
+
+<a href="#"><img width="609" height="294" src="https://media.discordapp.net/attachments/1116676096360972289/1142149237019259030/image.png"></a>
+
+3. Direct message to **micah-sign-bot** with `/sign-in`
+
+<a href="#"><img width="329" height="435" src="https://media.discordapp.net/attachments/1116676096360972289/1142149975325814864/image.png"></a>
+
+4. Reply the bot to get signed
+
+<a href="#"><img width="492" height="293" src="https://media.discordapp.net/attachments/1116676096360972289/1142149176189268060/Untitled.png"></a>
+
+5. You must do this for 7 days then you will get a **Fans** role. If you have **Sponsor** role, just need 3 days
 
 ---
 
