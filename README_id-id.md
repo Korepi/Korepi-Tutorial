@@ -61,7 +61,7 @@
 ### Rilis
 
 1. Buka halaman [rilis](https://github.com/Korepi/keyauth-cpp-library/releases)
-2. Unduh rilisan terbaru dengan label berawalan `F` (contoh: [F6](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F6))
+2. Unduh rilisan terbaru dengan label berawalan `F` (contoh: [F7](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F7))
 
 ### Cara Menggunakan
 
