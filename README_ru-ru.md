@@ -67,7 +67,7 @@
 ### Release F
 
 1. Перейдите на [страницу релизов](https://github.com/Korepi/keyauth-cpp-library/releases)
-2. Скачайте `F` версию (например. [F6](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F6))
+2. Скачайте `F` версию (например. [F7](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F7))
 
 ### Использование
 
