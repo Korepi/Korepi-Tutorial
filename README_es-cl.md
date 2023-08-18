@@ -61,7 +61,7 @@
 ### Lanzamientos (Releases)
 
 1. Vaya a la [página de lanzamientos (Releases)](https://github.com/Korepi/keyauth-cpp-library/releases)
-2. Descargue las versiones `F` (Ej. [F6](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F6))
+2. Descargue las versiones `F` (Ej. [F7](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F7))
 
 ### Uso
 
