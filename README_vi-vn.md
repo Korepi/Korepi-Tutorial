@@ -67,7 +67,7 @@
 ### Bản chính thức
 
 1. Đi tới các [bản phát hành chính thức](https://github.com/Korepi/keyauth-cpp-library/releases)
-2. Tải xuống phiên bản `F` (VD: [F6](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F6))
+2. Tải xuống phiên bản `F` (VD: [F7](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F7))
 
 ### Cách để bạn có thể sử dụng [Korepi](https://github.com/Korepi/Korepi) với role Fans.
 
