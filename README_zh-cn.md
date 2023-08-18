@@ -67,7 +67,7 @@
  ### 发布 
   
  1. 前往 [releases page](https://github.com/Korepi/keyauth-cpp-library/releases) 
- 2. 下载`F`版本 (ex. [F6](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F6)) 
+ 2. 下载`F`版本 (ex. [F7](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F7)) 
   
  ### 使用方法 
   
