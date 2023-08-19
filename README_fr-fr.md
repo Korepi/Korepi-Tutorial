@@ -92,7 +92,7 @@
 
 1. Lancer `injector.exe`.
 2. Sélectionnez `GenshinImpact.exe` ou `YuanShen.exe`. (vérifiez `cfg.ini` pour voir si l'injecteur a choisi le bon chemin de jeu)
-3. 3. Allez sur [notre discord](https://discord.gg/cottonbuds) canal `micah-bot-verify` et tapez `/getkey` pour obtenir une clé.
+3. Allez sur [notre discord](https://discord.gg/cottonbuds) canal `micah-bot-verify` et tapez `/getkey` pour obtenir une clé.
 
 <a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
 <a href="#"><img width="700" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128329417521889350/Untitled.png"></a>
