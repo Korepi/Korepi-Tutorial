@@ -36,10 +36,28 @@
 
 ## ✨ Thông báo mới nhất
 
-- Dự án này đã được chuyển đến [Korepi](https://github.com/Korepi/Korepi).
+- Discord hiện đã được mở lại, bạn có thể gia nhập tự do.
 
 ---
 
+## ❓ LÀM THẾ NÀO ĐỂ XÁC THỰC VÀ ĐĂNG NHẬP DISCORD + LẤY VAI TRÒ NGƯỜI HÂM MỘ (FANS)
+
+1. Tham gia [Cotton Buds Discord](https://discord.gg/cottonbuds)
+2. Bạn sẽ nhận một tin nhắn từ **Double Counter** và nhấn vào nút **verify**
+
+<a href="#"><img width="609" height="294" src="https://media.discordapp.net/attachments/1116676096360972289/1142149237019259030/image.png"></a>
+
+3. Nhắn tin trực tiếp đến **micah-sign-bot** với lệnh `/sign-in`
+
+<a href="#"><img width="329" height="435" src="https://media.discordapp.net/attachments/1116676096360972289/1142149975325814864/image.png"></a>
+
+4. Trả lời bot để được xác thực
+
+<a href="#"><img width="492" height="293" src="https://media.discordapp.net/attachments/1116676096360972289/1142149176189268060/Untitled.png"></a>
+
+5. Bạn phải làm điều này trong vòng 7 ngày, sau đó bạn sẽ lấy được vai trò **Fans**. Nếu bạn có vai trò **Sponsor**, bạn chỉ cần 3 ngày.
+
+---
 ## ❓ Dành cho những người dùng cộng đồng
 
 ### Bản chính thức
