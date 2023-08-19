@@ -63,7 +63,7 @@
 ### Sortie
 
 1. Dirigez-vous vers le [releases page](https://github.com/Korepi/keyauth-cpp-library/releases)
-2.Télécharger le `P` Releases (ex. [P5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/P5))
+2. Télécharger le `P` Releases (ex. [P5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/P5))
 
 ### Usage
 
