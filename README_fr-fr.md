@@ -54,7 +54,7 @@
 
 <a href="#"><img width="492" height="293" src="https://media.discordapp.net/attachments/1116676096360972289/1142149176189268060/Untitled.png"></a>
 
-5. Vous devez faire cela pendant 7 jours, puis vous obtiendrez un rôle ** Fans **. Si vous avez un rôle **Sponsor**, il vous suffit de 3 jours
+5. Vous devez faire cela pendant 7 jours, puis vous obtiendrez un rôle **Fans**. Si vous avez un rôle **Sponsor**, il vous suffit de 3 jours
 
 ---
 
