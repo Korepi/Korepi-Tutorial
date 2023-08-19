@@ -36,7 +36,27 @@
 
 ## ✨ Примечание
 
-- Проект переехал в [этот репозиторий](https://github.com/Korepi/Korepi-Private-Repo).
+- Discord теперь открыт, вы можете свободно присоединиться.
+
+---
+
+## ❓ КАК ПРОВЕРИТЬ И ВОЙТИ НА СЕРВЕР DISCORD + ПОЛУЧЕНИЕ РОЛИ "ФАНА"
+
+1. Присоединитесь к [Cotton Buds Discord](https://discord.gg/cottonbuds).
+2. Вы получите личное сообщение от **Double Counter**, кликните, чтобы **подтвердить**.
+
+<a href="#"><img width="609" height="294" src="https://media.discordapp.net/attachments/1116676096360972289/1142149237019259030/image.png"></a>
+
+3. Личное сообщение отправте **micah-sign-bot** и введите команду `/sign-in`.
+
+<a href="#"><img width="329" height="435" src="https://media.discordapp.net/attachments/1116676096360972289/1142149975325814864/image.png"></a>
+
+4. Ответьте на сообщение бота, чтобы получить подтверждение.
+
+<a href="#"><img width="492" height="293" src="https://media.discordapp.net/attachments/1116676096360972289/1142149176189268060/Untitled.png"></a>
+
+5. Вы должны проделать это в течение 7 дней, после чего вы получите роль **Фана**. Если у вас есть роль **Спонсора**, это займет всего 3 дня.
+
 
 ---
 
