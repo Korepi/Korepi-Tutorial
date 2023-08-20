@@ -114,7 +114,7 @@
 ### Phiên bản chính thức
 
 1. Đi tới các [bản phát hành chính thức](https://github.com/Korepi/korepi-online-data/releases)
-2. Tải xuống phiên bản `v0.x.x` (VD: [v0.9.4](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.4))
+2. Tải xuống phiên bản `v0.x.x` (VD: [v0.9.5](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.5))
 
 ### Cách để bạn có thể sử dụng [Korepi](https://github.com/Korepi/Korepi) bản MICAH.
 
