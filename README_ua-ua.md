@@ -96,7 +96,7 @@
 ### Реліз
 
 1. Перейдіть на [сторінку релізів](https://github.com/Korepi/korepi-online-data/releases)
-2. Завантажте `v0.x.x` версію (наприклад [v0.9.4](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.4))
+2. Завантажте `v0.x.x` версію (наприклад [v0.9.5](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.5))
 
 ### Використання
 
