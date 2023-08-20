@@ -93,7 +93,7 @@
 ### Release
 
 1. Head over to the [releases page](https://github.com/Korepi/korepi-online-data/releases)
-2. Download the `v0.x.x` Releases (ex. [v0.9.4](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.4))
+2. Download the `v0.x.x` Releases (ex. [v0.9.5](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.5))
 
 ### Usage
 
