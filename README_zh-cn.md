@@ -96,7 +96,7 @@
  ### 发布
   
  1. 前往 [发布页面](https://github.com/Korepi/korepi-online-data/releases) 
- 2. 下载 `v0.x.x` 版本（例如 [v0.9.4](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.4)) 
+ 2. 下载 `v0.x.x` 版本（例如 [v0.9.5](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.5)) 
   
  ### 使用 
   
