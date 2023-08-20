@@ -116,7 +116,7 @@
 ### Release M
 
 1. Перейдите на [страницу релизов](https://github.com/Korepi/korepi-online-data/releases)
-2. Скачайте Релиз `v0.x.x` (например. [v0.9.4](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.4))
+2. Скачайте Релиз `v0.x.x` (например. [v0.9.5](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.5))
 
 ### Использование
 
