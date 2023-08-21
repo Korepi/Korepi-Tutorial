@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td valign="center"><a href="README.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1fa-1f1f8.svg" width="16"/> English</td>
-    <td valign="center"><img src="https://em-content.zobj.net/thumbs/160/twitter/154/flag-for-france_1f1eb-1f1f7.png" width="16"/> Français</td>
+    <td valign="center"><a href="README_fr-fr.md"><img src="https://em-content.zobj.net/thumbs/160/twitter/154/flag-for-france_1f1eb-1f1f7.png" width="16"/> Français</td>
     <td valign="center"><a href="README_pt-br.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1e7-1f1f7.svg" width="16"/> Português (BR)</td>
     <td valign="center"><a href="README_ru-ru.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1f7-1f1fa.svg" width="16"/> Русский</a></td>
     <td valign="center"><a href="README_ua-ua.md"><img src="https://github.com/Andrew1397/Ukraine/blob/main/Flag_of_Ukraine.png" width="16"/> Українська</a></td>
     <td valign="center"><a href="README_es-cl.md"><img src="https://twemoji.maxcdn.com/v/13.0.0/svg/1f1e8-1f1f1.svg" width="16"/> Español (CL)</td>
-     <td valign="center"><a href="README_de-de.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1e9-1f1ea.svg" width="16"/> Deutsch</a></td>
-     
+    <td valign="center"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1e9-1f1ea.svg" width="16"/> Deutsch</a></td>
+      
   </tr>
 </table>
 </div>
@@ -35,107 +35,108 @@
 	    
 ---
 
-## ✨ Dernière note
+## ✨ Letzte Anmerkungen
 
-- Discord est maintenant ouvert, vous pouvez rejoindre librement.
+- Discord ist jetzt geöffnet, Sie können frei beitreten.
+
 ---
 
-## ❓ Comment vérifier et se connecter à discord et obtenir le rôle de fans
+## ❓ WIE MAN DISCORD VERIFIZIERT UND SICH ANMELDET + DIE FANS ROLLE ERHÄLT
 
-1. Rejoindre [Cotton Buds Discord](https://discord.gg/cottonbuds)
-2. Vous recevrez le DM de **Double Counter** et cliquez pour **vérifier**
+1. Beitreten [Cotton Buds Discord](https://discord.gg/cottonbuds)
+2. Sie werden eine Nachricht von **Double Counter** erhalten und **verify** klicken
 
 <a href="#"><img width="609" height="294" src="https://media.discordapp.net/attachments/1116676096360972289/1142149237019259030/image.png"></a>
 
-3. Message direct à **micah-sign-bot** avec `/sign-in`
+3. Schreiben Sie **micah-sign-bot** an mit `/sign-in`
 
 <a href="#"><img width="329" height="435" src="https://media.discordapp.net/attachments/1116676096360972289/1142149975325814864/image.png"></a>
 
-4. Répondez au bot pour être signé
+4. Antworten Sie dem Bot um angemeldet zu werden
 
 <a href="#"><img width="492" height="293" src="https://media.discordapp.net/attachments/1116676096360972289/1142149176189268060/Untitled.png"></a>
 
-5. Vous devez faire cela pendant 7 jours, puis vous obtiendrez un rôle **Fans**. Si vous avez un rôle **Sponsor**, il vous suffit de 3 jours
+5. Dies musst du 7 Tage lang machen, um die **Fans** Rolle zu erhalten. Wenn Sie die **Sponsor** Rolle besitzen, dann brauchen Sie nur 3 Tage zu warten
 
 ---
 
-## ❓  Pour les utilisateurs publics
+## ❓ Für öffentliche Nutzer
 
-### Sortie
+### Release
 
-1. Dirigez-vous vers le [releases page](https://github.com/Korepi/keyauth-cpp-library/releases)
-2. Télécharger le `P` Releases (ex. [P5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/P5))
+1. Gehe zur [releases Seite](https://github.com/Korepi/keyauth-cpp-library/releases)
+2. Lade die `P` releases runter (ex. [P5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/P5))
 
-### Usage
+### Benutzung
 
-1. Assurez-vous que `telemetry.dll` se trouve dans le même dossier que `injector.exe`.
-2. Lancer `injector.exe`.
-3. Sélectionnez `GenshinImpact.exe` ou `YuanShen.exe`. (vérifiez `cfg.ini` pour voir si l'injecteur a choisi le bon chemin de jeu)
-4. Le jeu sera lancé automatiquement, attendez que l'interface apparaisse.
-5. Appuyez sur 'TAB' pour ouvrir l'interface graphique [Korepi](https://github.com/Korepi/Korepi).
+1. Vergewissern Sie sich, dass sich die Datei `telemetry.dll` in demselben Ordner wie `injector.exe` befindet.
+2. Führe `injector.exe` aus.
+3. Wähle `GenshinImpact.exe` oder `YuanShen.exe`. (überprüfe `cfg.ini` um sicherzustellen, dass der Injektor den richtigen Spielpfad gewählt hat)
+4. Das Spiel wird automatisch gestartet. Warten Sie, bis das Menü erscheint.
+5. Drücke `TAB` zum öffnen von [Korepi](https://github.com/Korepi/Korepi) GUI.
 
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 
-### Didacticiel vidéo
+### Video Tutorial
 
 [![VIDEO TUTORIAL](https://srhscollaborationsuite.weebly.com/uploads/3/8/4/0/38407301/watch-deaddrop-video-button-img_1_orig.png)](http://www.youtube.com/watch?v=sGJVT8YMM6Q "How to use Korepi for PUBLIC")
 
 ---
 
-## ❓ Pour les fans (rôle de fan requis)
+## ❓ Für Fans (Erfordert Fan Role)
 
-### Sortie
+### Release
 
-1. Dirigez-vous vers le [releases page](https://github.com/Korepi/keyauth-cpp-library/releases)
-2. Télécharger le `F` Releases (ex. [F7](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F7))
+1. Gehe zur [releases Seite](https://github.com/Korepi/keyauth-cpp-library/releases)
+2. Lade die `F` releases runter (ex. [F7](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F7))
 
-### Utilisation
+### Benutzung
 
-1. Lancer `injector.exe`.
-2. Sélectionnez `GenshinImpact.exe` ou `YuanShen.exe`. (vérifiez `cfg.ini` pour voir si l'injecteur a choisi le bon chemin de jeu)
-3. Allez sur [notre discord](https://discord.gg/cottonbuds) canal `micah-bot-verify` et tapez `/getkey` pour obtenir une clé.
+1. Führe `injector.exe` aus.
+2. Wähle `GenshinImpact.exe` oder `YuanShen.exe`. (überprüfe `cfg.ini` um sicherzustellen, dass der Injektor den richtigen Spielpfad gewählt hat)
+3. Gehe zu [unserem discord](https://discord.gg/cottonbuds) `micah-bot-verify` Channel und schreibe `/getkey`, um eine Lizens zu erhalten.
 
 <a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
 <a href="#"><img width="700" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128329417521889350/Untitled.png"></a>
 
-4. Copiez la clé que vous avez insérée dans l'injecteur lorsqu'il vous l'a demandé.
-5. Le jeu sera lancé automatiquement, attendez que l'interface apparaisse.
-6. Appuyez sur 'TAB' pour ouvrir l'interface graphique [Korepi](https://github.com/Korepi/Korepi).
+4. Kopieren Sie die Lizens in den Injektor rein, wenn nachgefragt wird.
+5. Das Spiel wird automatisch gestartet. Warten Sie, bis das Menü erscheint.
+6. Drücke `TAB` zum öffnen von [Korepi](https://github.com/Korepi/Korepi) GUI.
 
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 
-### Didacticiel vidéo
+### Video Tutorial
 
 [![VIDEO TUTORIAL](https://srhscollaborationsuite.weebly.com/uploads/3/8/4/0/38407301/watch-deaddrop-video-button-img_1_orig.png)](http://www.youtube.com/watch?v=imRL9g_Edew "How to use Korepi for PUBLIC")
 
 ---
 
-## ❓ Tutoriels BUILDS de MICAH
+## ❓ MICAH's BUILD Tutorial
 
-### Sortie
+### Release
 
-1. Rendez-vous sur la [page des versions](https://github.com/Korepi/korepi-online-data/releases)
-2. Téléchargez les versions `v0.x.x` (ex. [v0.9.5](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.5))
+1. Head over to the [releases page](https://github.com/Korepi/korepi-online-data/releases)
+2. Download the `v0.x.x` Releases (ex. [v0.9.4](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.4))
 
-### Usage
+### Benutzung
 
-1. Run `v0.x.x.exe`.
-2. 
-Allez sur [notre discord](https://discord.gg/cottonbuds) canal `micah-bot-verify` et tapez `/verify` puis collez votre `HWID` affiché dans **console** pour obtenir une **clé déposer**.
+1. Führe `v0.x.x.exe` aus.
+2. Gehe zu [unserem discord](https://discord.gg/cottonbuds) `micah-bot-verify` Channel und schreibe `/verify` dann füge deine `HWID`, die in der **Konsole** zu sehen ist ein, um eine **Lizens Datei** zu erhalten.
 
 <a href="#"><img width="965" height="415" src="https://media.discordapp.net/attachments/1126893908597669989/1138425541838516294/Untitled.png"></a>
 <a href="#"><img width="1324" height="320" src="https://media.discordapp.net/attachments/1126893908597669989/1138426358217842858/Untitled.png"></a>
 
-3. Téléchargez le **fichier clé** et placez-le dans le dossier en vous assurant que `enc.json` se trouve dans le même dossier que `v0.x.x.exe`
-4. Exécutez à nouveau `v0.x.x.exe`.
-5. Sélectionnez `GenshinImpact.exe` ou `YuanShen.exe`. (vérifiez `cfg.ini` pour voir si l'injecteur a choisi le bon chemin de jeu)
-6. Le jeu sera lancé automatiquement, attendez que l'interface apparaisse.
-7. Appuyez sur 'TAB' pour ouvrir l'interface graphique [Korepi](https://github.com/Korepi/Korepi).
+3. Lade die **Lizens Datei** runter und lege sie in den Ordner. Stelle sicher, dass `enc.json` in dem selben Ordner wie `v0.x.x.exe` liegt.
+4. Führe `v0.x.x.exe` nochmal aus.
+5. Wähle `GenshinImpact.exe` oder `YuanShen.exe`. (überprüfe `cfg.ini` um sicherzustellen, dass der Injektor den richtigen Spielpfad gewählt hat)
+6. Das Spiel wird automatisch gestartet. Warten Sie, bis das Menü erscheint.
+7. Drücke `TAB` zum öffnen von [Korepi](https://github.com/Korepi/Korepi) GUI.
+
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 
 ---
 
-## ⚠ Clause de non-responsabilité
+## ⚠ Haftungsausschluss
 
-- À utiliser à vos risques et périls.
-- **Ne diffusez pas d'informations sur vous en utilisant un logiciel tiers**, et tout ira bien. Tu as été prévenu.
+- Die Verwendung erfolgt auf eigene Gefahr.
+- **Verbreiten Sie keine Informationen darüber, wie Sie Software von Dritten verwenden**, damit Sie keine Probleme bekommen. Sie wurden gewarnt.
