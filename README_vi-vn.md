@@ -70,7 +70,7 @@
 ### Cách để bạn có thể sử dụng [Korepi](https://github.com/Korepi/Korepi) với role Fans.
 
 1. Khởi chạy file `injector.exe`.
-2. Chọn file game `GenshinImpact.exe` hoặc `YuanShen.exe` (YuanShen là đối với phiên bản trung quốc). (kiểm tra `cfg.ini` để xem bạn có chọn đúng thư mục cũng như file game hay không)
+2. Chọn file game `GenshinImpact.exe` hoặc `YuanShen.exe` (YuanShen là đối với phiên bản Trung Quốc Đại Lục). (kiểm tra `cfg.ini` để xem bạn có chọn đúng thư mục cũng như file game hay không)
 3. Truy cập vào [server discord](https://discord.gg/cottonbuds) ở kênh `micah-bot-verify` bạn hãy gõ lệnh `/getkey` như hình bên dưới để có thể lấy được key.
 
 <a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
@@ -105,7 +105,7 @@
 
 3. Tải xuống **file key** và đặt nó vào thư mục, lưu ý rằng `enc.json` phải ở cùng thư mục với file `v0.x.x.exe`
 4. Khởi chạy lại `v0.x.x.exe` lần nữa.
-5. Chọn file game `GenshinImpact.exe` hoặc `YuanShen.exe` (YuanShen là đối với phiên bản trung quốc). (kiểm tra `cfg.ini` để xem bạn có chọn đúng thư mục cũng như file game hay không)
+5. Chọn file game `GenshinImpact.exe` hoặc `YuanShen.exe` (YuanShen là đối với phiên bản Trung Quốc Đại Lục). (kiểm tra `cfg.ini` để xem bạn có chọn đúng thư mục cũng như file game hay không)
 6. Trò chơi sẽ tự động được khởi chạy vì vậy hãy kiên trì và chờ giao diện xuất hiện.
 7. Nhấn phím `TAB` để mở giao diện [Korepi](https://github.com/Korepi/Korepi).
 
@@ -123,7 +123,7 @@
 
 1. Đảm bảo rằng file `telemetry.dll` phải nằm ở trong thư mục cùng với file chạy `injector.exe`.
 2. Khởi chạy file `injector.exe`.
-3. Chọn file game `GenshinImpact.exe` hoặc `YuanShen.exe` (YuanShen là đối với phiên bản trung quốc). (kiểm tra `cfg.ini` để xem bạn có chọn đúng thư mục cũng như file game hay không)
+3. Chọn file game `GenshinImpact.exe` hoặc `YuanShen.exe` (YuanShen là đối với phiên bản Trung Quốc Đại Lục). (kiểm tra `cfg.ini` để xem bạn có chọn đúng thư mục cũng như file game hay không)
 4. Trò chơi sẽ tự động được khởi chạy vì vậy hãy kiên trì và chờ giao diện xuất hiện.
 5. Nhấn phím `TAB` để mở giao diện [Korepi](https://github.com/Korepi/Korepi).
 
