@@ -113,7 +113,7 @@
 
 ---
 
-## ❓ For Public Users
+## ❓ For Public Users [CURRENTLY OUTDATED]
 
 ### Release
 
