@@ -57,27 +57,6 @@
 
 5. Bạn phải làm điều này trong vòng 7 ngày, sau đó bạn sẽ lấy được vai trò **Fans**. Nếu bạn có vai trò **Sponsor**, bạn chỉ cần 3 ngày.
 
----
-## ❓ Dành cho những người dùng cộng đồng
-
-### Bản chính thức
-
-1. Đi đến các [bản phát hành chính thức](https://github.com/Korepi/keyauth-cpp-library/releases)
-2. Tải xuống phiên bản `P` (VD: [P5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/P5))
-
-### Cách để bạn có thể sử dụng [Korepi](https://github.com/Korepi/Korepi).
-
-1. Đảm bảo rằng file `telemetry.dll` phải nằm ở trong thư mục cùng với file chạy `injector.exe`.
-2. Khởi chạy file `injector.exe`.
-3. Chọn file game `GenshinImpact.exe` hoặc `YuanShen.exe` (YuanShen là đối với phiên bản trung quốc). (kiểm tra `cfg.ini` để xem bạn có chọn đúng thư mục cũng như file game hay không)
-4. Trò chơi sẽ tự động được khởi chạy vì vậy hãy kiên trì và chờ giao diện xuất hiện.
-5. Nhấn phím `TAB` để mở giao diện [Korepi](https://github.com/Korepi/Korepi).
-
-<a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
-
-### Video hướng dẫn
-
-[![VIDEO HƯỚNG DẪN](https://srhscollaborationsuite.weebly.com/uploads/3/8/4/0/38407301/watch-deaddrop-video-button-img_1_orig.png)](http://www.youtube.com/watch?v=sGJVT8YMM6Q "How to use Korepi for PUBLIC")
 
 ---
 
@@ -133,6 +112,27 @@
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 
 ---
+## ❓ Dành cho những người dùng cộng đồng - ĐÃ LỖI THỜI
+
+### Bản chính thức
+
+1. Đi đến các [bản phát hành chính thức](https://github.com/Korepi/keyauth-cpp-library/releases)
+2. Tải xuống phiên bản `P` (VD: [P5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/P5))
+
+### Cách để bạn có thể sử dụng [Korepi](https://github.com/Korepi/Korepi).
+
+1. Đảm bảo rằng file `telemetry.dll` phải nằm ở trong thư mục cùng với file chạy `injector.exe`.
+2. Khởi chạy file `injector.exe`.
+3. Chọn file game `GenshinImpact.exe` hoặc `YuanShen.exe` (YuanShen là đối với phiên bản trung quốc). (kiểm tra `cfg.ini` để xem bạn có chọn đúng thư mục cũng như file game hay không)
+4. Trò chơi sẽ tự động được khởi chạy vì vậy hãy kiên trì và chờ giao diện xuất hiện.
+5. Nhấn phím `TAB` để mở giao diện [Korepi](https://github.com/Korepi/Korepi).
+
+<a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
+
+### Video hướng dẫn
+
+[![VIDEO HƯỚNG DẪN](https://srhscollaborationsuite.weebly.com/uploads/3/8/4/0/38407301/watch-deaddrop-video-button-img_1_orig.png)](http://www.youtube.com/watch?v=sGJVT8YMM6Q "How to use Korepi for PUBLIC")
+
 
 ## ⚠ TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM
 
