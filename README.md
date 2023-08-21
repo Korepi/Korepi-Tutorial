@@ -43,7 +43,7 @@
 ## ❓ HOW TO VERIFY & SIGN-IN DISCORD + GETTING FANS ROLE
 
 1. Join [Cotton Buds Discord](https://discord.gg/cottonbuds)
-2. You will receive the DM from **Double Counter** and click to **verify**
+2. You will receive the DM from **Double Counter** and click to **verify** or click to `#account-verify` to **verify**.
 
 <a href="#"><img width="609" height="294" src="https://media.discordapp.net/attachments/1116676096360972289/1142149237019259030/image.png"></a>
 
@@ -57,28 +57,6 @@
 
 5. You must do this for 7 days then you will get a **Fans** role. If you have **Sponsor** role, just need 3 days
 
----
-
-## ❓ For Public Users
-
-### Release
-
-1. Head over to the [releases page](https://github.com/Korepi/keyauth-cpp-library/releases)
-2. Download the `P` Releases (ex. [P5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/P5))
-
-### Usage
-
-1. Ensure that `telemetry.dll` is in the same folder that `injector.exe`.
-2. Run `injector.exe`.
-3. Select `GenshinImpact.exe` or `YuanShen.exe`. (check `cfg.ini` to see if the injector chose the right game path)
-4. Game will be launched automatically, wait for the interface to appear.
-5. Press `TAB` to open [Korepi](https://github.com/Korepi/Korepi) GUI.
-
-<a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
-
-### Video Tutorial
-
-[![VIDEO TUTORIAL](https://srhscollaborationsuite.weebly.com/uploads/3/8/4/0/38407301/watch-deaddrop-video-button-img_1_orig.png)](http://www.youtube.com/watch?v=sGJVT8YMM6Q "How to use Korepi for PUBLIC")
 
 ---
 
@@ -115,7 +93,7 @@
 ### Release
 
 1. Head over to the [releases page](https://github.com/Korepi/korepi-online-data/releases)
-2. Download the `v0.x.x` Releases (ex. [v0.9.4](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.4))
+2. Download the `v0.x.x` Releases (ex. [v0.9.5](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.5))
 
 ### Usage
 
@@ -132,6 +110,29 @@
 7. Press `TAB` to open [Korepi](https://github.com/Korepi/Korepi) GUI.
 
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
+
+---
+
+## ❓ For Public Users -CURRENTLY OUTDATED
+
+### Release
+
+1. Head over to the [releases page](https://github.com/Korepi/keyauth-cpp-library/releases)
+2. Download the `P` Releases (ex. [P5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/P5))
+
+### Usage
+
+1. Ensure that `telemetry.dll` is in the same folder that `injector.exe`.
+2. Run `injector.exe`.
+3. Select `GenshinImpact.exe` or `YuanShen.exe`. (check `cfg.ini` to see if the injector chose the right game path)
+4. Game will be launched automatically, wait for the interface to appear.
+5. Press `TAB` to open [Korepi](https://github.com/Korepi/Korepi) GUI.
+
+<a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
+
+### Video Tutorial
+
+[![VIDEO TUTORIAL](https://srhscollaborationsuite.weebly.com/uploads/3/8/4/0/38407301/watch-deaddrop-video-button-img_1_orig.png)](http://www.youtube.com/watch?v=sGJVT8YMM6Q "How to use Korepi for PUBLIC")
 
 ---
 
