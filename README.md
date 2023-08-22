@@ -37,7 +37,7 @@
 
 ## ✨ Latest Note
 
-- Discord is now opened, you can join freely.
+- Discord invitation is now paused!
 
 ---
 
