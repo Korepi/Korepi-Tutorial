@@ -75,7 +75,7 @@
 3. Go to [our discord](https://discord.gg/cottonbuds) `micah-bot-verify` channel and type `/getkey` to get a key.
 
 <a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
-<a href="#"><img width="700" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128329417521889350/Untitled.png"></a>
+<a href="#"><img width="365" height="164" src="https://media.discordapp.net/attachments/1126893908597669989/1144891137224613969/image.png"></a>
 
 4. Copy the key you got into the injector when it asked.
 5. Game will be launched automatically, wait for the interface to appear.
