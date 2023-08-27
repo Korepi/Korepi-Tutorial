@@ -65,8 +65,8 @@
 
 ### Release
 
-1. Head over to the [releases page](https://github.com/Korepi/keyauth-cpp-library/releases)
-2. Download the `F` Releases (ex. [F7](https://github.com/Korepi/keyauth-cpp-library/releases/tag/F7))
+1. Head over to the [releases page](https://github.com/Cotton-Buds/colorpicker/releases)
+2. Download the `F` Releases (ex. [F8](https://github.com/Cotton-Buds/colorpicker/releases/tag/F8))
 
 ### Usage
 
