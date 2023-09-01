@@ -75,7 +75,7 @@
 3. Truy cập vào [server discord](https://discord.gg/cottonbuds) ở kênh `micah-bot-verify` bạn hãy gõ lệnh `/getkey` như hình bên dưới để có thể lấy được key.
 
 <a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
-<a href="#"><img width="700" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128329417521889350/Untitled.png"></a>
+<a href="#"><img width="365" height="164" src="https://media.discordapp.net/attachments/1126893908597669989/1144891137224613969/image.png"></a>
 
 4. Sao chép key đăng nhập và dán nó vào injector sau khi được hỏi.
 5. Trò chơi sẽ tự động được khởi chạy vì vậy hãy kiên trì và chờ giao diện xuất hiện.
