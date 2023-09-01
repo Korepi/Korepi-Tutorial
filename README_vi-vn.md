@@ -46,7 +46,7 @@
 1. Tham gia [Cotton Buds Discord](https://discord.gg/cottonbuds)
 2. Bạn sẽ nhận một tin nhắn từ **Double Counter** và nhấn vào nút **verify**
 
-<a href="#"><img width="609" height="294" src="https://media.discordapp.net/attachments/1116676096360972289/1142149237019259030/image.png"></a>
+<a href="#"><img width="609" height="294" src="https://media.discordapp.net/attachments/1126893908597669989/1144167784201330748/image.png"></a>
 
 3. Nhắn tin trực tiếp đến **micah-sign-bot** với lệnh `/sign-in`
 
