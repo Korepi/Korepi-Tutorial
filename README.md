@@ -44,7 +44,7 @@
 ## ❓ HOW TO VERIFY & SIGN-IN DISCORD + GETTING FANS ROLE
 
 1. Join [Cotton Buds Discord](https://discord.gg/cottonbuds)
-2. You will receive the DM from **Double Counter** and click to **verify** or click to `#account-verify` to **verify**.
+2. You will receive the DM from **Account Verification** and click to **verify** or click to `#account-verify` to **verify**.
 
 <a href="#"><img width="609" height="294" src="https://media.discordapp.net/attachments/1126893908597669989/1144167784201330748/image.png"></a>
 
