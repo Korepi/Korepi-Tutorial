@@ -44,7 +44,7 @@
 ## ❓ LÀM THẾ NÀO ĐỂ XÁC THỰC VÀ ĐĂNG NHẬP DISCORD + LẤY VAI TRÒ NGƯỜI HÂM MỘ (FANS)
 
 1. Tham gia [Cotton Buds Discord](https://discord.gg/cottonbuds)
-2. Bạn sẽ nhận một tin nhắn từ **Double Counter** và nhấn vào nút **verify**
+2. Bạn sẽ nhận một tin nhắn từ **Account Verification** và nhấn vào nút **verify**
 
 <a href="#"><img width="609" height="294" src="https://media.discordapp.net/attachments/1126893908597669989/1144167784201330748/image.png"></a>
 
