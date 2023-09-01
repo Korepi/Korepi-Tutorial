@@ -37,7 +37,7 @@
 
 ## ✨ Thông báo mới nhất
 
-- Discord hiện đã được mở lại, bạn có thể gia nhập tự do.
+- Discord hiện đã đóng (01/09/2023)
 
 ---
 
