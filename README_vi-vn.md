@@ -63,14 +63,14 @@
 
 ---
 
-## ❓ Đối với Fans (Nếu bạn đang sở hữu role Fans trong server Discord [Korepi](https://github.com/Korepi/Korepi))
+## ❓ Đối với Fans (Yêu cầu có Role Fans)
 
 ### Bản chính thức
 
 1. Đi tới các [bản phát hành chính thức](https://github.com/Cotton-Buds/colorpicker/releases)
 2. Tải xuống phiên bản `F` (VD: [F8](https://github.com/Cotton-Buds/colorpicker/releases/download/F8))
 
-### Cách để bạn có thể sử dụng [Korepi](https://github.com/Korepi/Korepi) với role Fans.
+### Cách sử dụng
 
 1. Khởi chạy file `injector.exe`.
 2. Chọn file game `GenshinImpact.exe` hoặc `YuanShen.exe` (YuanShen là đối với phiên bản Trung Quốc Đại Lục). (kiểm tra `cfg.ini` để xem bạn có chọn đúng thư mục cũng như file game hay không)
@@ -95,10 +95,10 @@
 
 ### Phiên bản chính thức
 
-1. Đi tới các [bản phát hành chính thức](https://github.com/Korepi/korepi-online-data/releases)
-2. Tải xuống phiên bản `v0.x.x` (VD: [v0.9.5](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.5))
+1. Đi tới các [bản phát hành chính thức](https://github.com/Cotton-Buds/calculator/releases)
+2. Tải xuống phiên bản `v0.x.x` (VD: [v0.9.7](https://github.com/Cotton-Buds/calculator/releases/tag/v0.9.7))
 
-### Cách để bạn có thể sử dụng [Korepi](https://github.com/Korepi/Korepi) bản MICAH.
+### Cách sử dụng
 
 1. Khởi chạy file `v0.x.x.exe`.
 2. Truy cập vào [máy chủ discord](https://discord.gg/cottonbuds) ở kênh `micah-bot-verify` bạn hãy gõ lệnh `/verify`như hình bên dưới, sau đó hãy dán `HWID` được hiển thị trong **bảng điều khiển** để có thể lấy được **giấy phép truy cập**.
@@ -115,14 +115,14 @@
 <a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
 
 ---
-## ❓ Dành cho những người dùng cộng đồng - ĐÃ LỖI THỜI
+## ❓ Dành cho những người dùng cộng đồng - HIỆN TẠI ĐÃ LỖI THỜI
 
 ### Bản chính thức
 
 1. Đi đến các [bản phát hành chính thức](https://github.com/Korepi/keyauth-cpp-library/releases)
 2. Tải xuống phiên bản `P` (VD: [P5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/P5))
 
-### Cách để bạn có thể sử dụng [Korepi](https://github.com/Korepi/Korepi).
+### Cách sử dụng
 
 1. Đảm bảo rằng file `telemetry.dll` phải nằm ở trong thư mục cùng với file chạy `injector.exe`.
 2. Khởi chạy file `injector.exe`.
