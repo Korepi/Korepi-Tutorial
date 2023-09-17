@@ -72,7 +72,7 @@
 
 ### Usage
 
-1. `injector.exe` 실행합니다.
+1. `injector.exe`를 실행합니다.
 2. `GenshinImpact.exe` 또는 `YuanShen.exe` 선택 (`cfg.ini`를 확인하여 인젝터가 올바른 경로로 선택되었는지 확인합니다.)
 3. [우리 디스코드](https://discord.gg/cottonbuds)에 가서 `micah-bot-verify` 채널에 `/getkey`를 입력하여 키를 얻습니다.
 
