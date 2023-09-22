@@ -6,7 +6,7 @@
 <p align="center">
 	<a href="https://github.com/Korepi/keyauth-cpp-library/releases"><img src="https://img.shields.io/github/downloads/Korepi/keyauth-cpp-library/total.svg?style=for-the-badge&color=darkcyan"></a>
 	<a href="https://github.com/Korepi/Korepi/graphs/contributors"><img src="https://img.shields.io/github/contributors/Korepi/Korepi?style=for-the-badge&color=darkcyan"></a>
-	<a href="https://discord.gg/cottonbuds"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
+	<a href=""><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
 </p>
 
 <div align="center">
@@ -44,7 +44,7 @@
 
 ## ❓ WIE MAN DISCORD VERIFIZIERT UND SICH ANMELDET + DIE FANS ROLLE ERHÄLT
 
-1. Beitreten [Cotton Buds Discord](https://discord.gg/cottonbuds)
+1. Beitreten [Cotton Buds Discord]()
 2. Sie werden eine Nachricht von **Double Counter** erhalten und **verify** klicken
 
 <a href="#"><img width="609" height="294" src="https://media.discordapp.net/attachments/1116676096360972289/1142149237019259030/image.png"></a>
@@ -95,7 +95,7 @@
 
 1. Führe `injector.exe` aus.
 2. Wähle `GenshinImpact.exe` oder `YuanShen.exe`. (überprüfe `cfg.ini` um sicherzustellen, dass der Injektor den richtigen Spielpfad gewählt hat)
-3. Gehe zu [unserem discord](https://discord.gg/cottonbuds) `micah-bot-verify` Channel und schreibe `/getkey`, um eine Lizens zu erhalten.
+3. Gehe zu [unserem discord]() `micah-bot-verify` Channel und schreibe `/getkey`, um eine Lizens zu erhalten.
 
 <a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
 <a href="#"><img width="700" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128329417521889350/Untitled.png"></a>
@@ -122,7 +122,7 @@
 ### Benutzung
 
 1. Führe `v0.x.x.exe` aus.
-2. Gehe zu [unserem discord](https://discord.gg/cottonbuds) `micah-bot-verify` Channel und schreibe `/verify` dann füge deine `HWID`, die in der **Konsole** zu sehen ist ein, um eine **Lizens Datei** zu erhalten.
+2. Gehe zu [unserem discord]() `micah-bot-verify` Channel und schreibe `/verify` dann füge deine `HWID`, die in der **Konsole** zu sehen ist ein, um eine **Lizens Datei** zu erhalten.
 
 <a href="#"><img width="965" height="415" src="https://media.discordapp.net/attachments/1126893908597669989/1138425541838516294/Untitled.png"></a>
 <a href="#"><img width="1324" height="320" src="https://media.discordapp.net/attachments/1126893908597669989/1138426358217842858/Untitled.png"></a>

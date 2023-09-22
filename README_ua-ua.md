@@ -6,7 +6,7 @@
 <p align="center">
 	<a href="https://github.com/Korepi/keyauth-cpp-library/releases"><img src="https://img.shields.io/github/downloads/Korepi/keyauth-cpp-library/total.svg?style=for-the-badge&color=darkcyan"></a>
 	<a href="https://github.com/Korepi/Korepi/graphs/contributors"><img src="https://img.shields.io/github/contributors/Korepi/Korepi?style=for-the-badge&color=darkcyan"></a>
-	<a href="https://discord.gg/cottonbuds"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
+	<a href=""><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
 </p>
 
 <div align="center">
@@ -44,7 +44,7 @@
 
 ## ❓ Автентифікація та вхід в Discord + як отримати роль FANS
 
-1. Приєднайтесь до [Cotton Buds Discord](https://discord.gg/cottonbuds)
+1. Приєднайтесь до [Cotton Buds Discord]()
 2. Отримайте приватне повідомлення від **Double Counter** і натисніть **verify** або натисніть `#account-verify`, щоб **підтвердити**.
 
 <a href="#"><img width="609" height="294" src="https://media.discordapp.net/attachments/1126893908597669989/1144167784201330748/image.png"></a>
@@ -72,7 +72,7 @@
 
 1. Запустіть `injector.exe`.
 2. Знайдіть і оберіть `GenshinImpact.exe` или `YuanShen.exe` в папці з грою.
-3. Перейдіть на [наш Discord](https://discord.gg/cottonbuds) знайдіть `micah-bot-verify` і введіть `/getkey`, щоб отримати ключ.
+3. Перейдіть на [наш Discord]() знайдіть `micah-bot-verify` і введіть `/getkey`, щоб отримати ключ.
 
 <a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
 <a href="#"><img width="700" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128329417521889350/Untitled.png"></a>
@@ -99,7 +99,7 @@
 ### Використання
 
 1. Запустіть `v0.x.x.exe`.
-2. Перейдіть на [наш Discord](https://discord.gg/cottonbuds) знайдіть `micah-bot-verify` і введіть `/verify`, а потім вставте ваш `HWID`, який відобразиться в **консолі**, що б отримати **ключовий файл**.
+2. Перейдіть на [наш Discord]() знайдіть `micah-bot-verify` і введіть `/verify`, а потім вставте ваш `HWID`, який відобразиться в **консолі**, що б отримати **ключовий файл**.
 
 <a href="#"><img width="965" height="415" src="https://media.discordapp.net/attachments/1126893908597669989/1138425541838516294/Untitled.png"></a>
 <a href="#"><img width="1324" height="320" src="https://media.discordapp.net/attachments/1126893908597669989/1138426358217842858/Untitled.png"></a>

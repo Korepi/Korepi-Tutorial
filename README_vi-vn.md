@@ -6,7 +6,7 @@
 <p align="center">
 	<a href="https://github.com/Korepi/keyauth-cpp-library/releases"><img src="https://img.shields.io/github/downloads/Korepi/keyauth-cpp-library/total.svg?style=for-the-badge&color=darkcyan"></a>
 	<a href="https://github.com/Korepi/Korepi/graphs/contributors"><img src="https://img.shields.io/github/contributors/Korepi/Korepi?style=for-the-badge&color=darkcyan"></a>
-	<a href="https://discord.gg/korek"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
+	<a href=""><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
 </p>
 
 <div align="center">
@@ -44,7 +44,7 @@
 
 ## ❓ LÀM THẾ NÀO ĐỂ XÁC THỰC VÀ ĐĂNG NHẬP DISCORD + LẤY VAI TRÒ NGƯỜI HÂM MỘ (FANS)
 
-1. Tham gia [Cotton Buds Discord](https://discord.gg/korek)
+1. Tham gia [Cotton Buds Discord]()
 2. Bạn sẽ nhận một tin nhắn từ **Account Verification** và nhấn vào nút **verify**
 
 <a href="#"><img width="609" height="294" src="https://media.discordapp.net/attachments/1126893908597669989/1144167784201330748/image.png"></a>
@@ -73,7 +73,7 @@
 
 1. Khởi chạy file `injector.exe`.
 2. Chọn file game `GenshinImpact.exe` hoặc `YuanShen.exe` (YuanShen là đối với phiên bản Trung Quốc Đại Lục). (kiểm tra `cfg.ini` để xem bạn có chọn đúng thư mục cũng như file game hay không)
-3. Truy cập vào [server discord](https://discord.gg/korek) ở kênh `micah-bot-verify` bạn hãy gõ lệnh `/getkey` như hình bên dưới để có thể lấy được key.
+3. Truy cập vào [server discord]() ở kênh `micah-bot-verify` bạn hãy gõ lệnh `/getkey` như hình bên dưới để có thể lấy được key.
 
 <a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
 <a href="#"><img width="365" height="164" src="https://media.discordapp.net/attachments/1126893908597669989/1144891137224613969/image.png"></a>
@@ -100,7 +100,7 @@
 ### Cách sử dụng
 
 1. Khởi chạy file `v0.x.x.exe`.
-2. Truy cập vào [máy chủ discord](https://discord.gg/korek) ở kênh `micah-bot-verify` bạn hãy gõ lệnh `/verify`như hình bên dưới, sau đó hãy dán `HWID` được hiển thị trong **bảng điều khiển** để có thể lấy được **giấy phép truy cập**.
+2. Truy cập vào [máy chủ discord]() ở kênh `micah-bot-verify` bạn hãy gõ lệnh `/verify`như hình bên dưới, sau đó hãy dán `HWID` được hiển thị trong **bảng điều khiển** để có thể lấy được **giấy phép truy cập**.
 
 <a href="#"><img width="965" height="415" src="https://media.discordapp.net/attachments/1126893908597669989/1138425541838516294/Untitled.png"></a>
 <a href="#"><img width="1324" height="320" src="https://media.discordapp.net/attachments/1126893908597669989/1138426358217842858/Untitled.png"></a>
@@ -144,6 +144,6 @@
 ---
 
 ## NOTE: 
-- Mô tả được dịch lại và viết thêm bởi Aojiro - Vui lòng liên hệ các Quản Trị Viên, Translator trong [máy chủ discord](https://discord.gg/korek) nếu Có Sai Sót 
+- Mô tả được dịch lại và viết thêm bởi Aojiro - Vui lòng liên hệ các Quản Trị Viên, Translator trong [máy chủ discord]() nếu Có Sai Sót 
 
 

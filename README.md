@@ -6,7 +6,7 @@
 <p align="center">
 	<a href="https://github.com/Korepi/keyauth-cpp-library/releases"><img src="https://img.shields.io/github/downloads/Korepi/keyauth-cpp-library/total.svg?style=for-the-badge&color=darkcyan"></a>
 	<a href="https://github.com/Korepi/Korepi/graphs/contributors"><img src="https://img.shields.io/github/contributors/Korepi/Korepi?style=for-the-badge&color=darkcyan"></a>
-	<a href="https://discord.gg/cottonbuds"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
+	<a href=""><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
 </p>
 
 <div align="center">
@@ -45,7 +45,7 @@
 
 ## ❓ HOW TO VERIFY & SIGN-IN DISCORD + GETTING FANS ROLE
 
-1. Join [Cotton Buds Discord](https://discord.gg/cottonbuds)
+1. Join [Cotton Buds Discord]()
 2. You will receive the DM from **Account Verification** and click to **verify** or click to `#account-verify` to **verify**.
 
 <a href="#"><img width="609" height="294" src="https://media.discordapp.net/attachments/1126893908597669989/1144167784201330748/image.png"></a>
@@ -74,7 +74,7 @@
 
 1. Run `injector.exe`.
 2. Select `GenshinImpact.exe` or `YuanShen.exe`. (check `cfg.ini` to see if the injector chose the right game path)
-3. Go to [our discord](https://discord.gg/cottonbuds) `micah-bot-verify` channel and type `/getkey` to get a key.
+3. Go to [our discord]() `micah-bot-verify` channel and type `/getkey` to get a key.
 
 <a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
 <a href="#"><img width="365" height="164" src="https://media.discordapp.net/attachments/1126893908597669989/1144891137224613969/image.png"></a>
@@ -101,7 +101,7 @@
 ### Usage
 
 1. Run `v0.x.x.exe`.
-2. Go to [our discord](https://discord.gg/cottonbuds) `micah-bot-verify` channel and type `/verify` then paste your `HWID` displaying in **console** to get a **key file**.
+2. Go to [our discord]() `micah-bot-verify` channel and type `/verify` then paste your `HWID` displaying in **console** to get a **key file**.
 
 <a href="#"><img width="965" height="415" src="https://media.discordapp.net/attachments/1126893908597669989/1138425541838516294/Untitled.png"></a>
 <a href="#"><img width="1324" height="320" src="https://media.discordapp.net/attachments/1126893908597669989/1138426358217842858/Untitled.png"></a>

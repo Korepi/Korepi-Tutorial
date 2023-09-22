@@ -6,7 +6,7 @@
 <p align="center">
 	<a href="https://github.com/Korepi/keyauth-cpp-library/releases"><img src="https://img.shields.io/github/downloads/Korepi/keyauth-cpp-library/total.svg?style=for-the-badge&color=darkcyan"></a>
 	<a href="https://github.com/Korepi/Korepi/graphs/contributors"><img src="https://img.shields.io/github/contributors/Korepi/Korepi?style=for-the-badge&color=darkcyan"></a>
-	<a href="https://discord.gg/korek"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
+	<a href=""><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
 </p>
 
 <div align="center">
@@ -45,7 +45,7 @@
 
 ## ❓ 如何验证并登录 DISCORD + 获得fans身份组
 
-1. 加入 [Cotton Buds Discord](https://discord.gg/korek)
+1. 加入 [Cotton Buds Discord]()
 2. 您将从 **帐户验证** 收到 DM，然后单击 **验证** 或单击 `#account-verify` 进行 **验证**。
 
 <a href="#"><img width="609" height="294" src="https://media.discordapp.net/attachments/1126893908597669989/1144167784201330748/image.png"></a>
@@ -74,7 +74,7 @@
 
 1. 运行 `injector.exe`. 
 2. 选择 `Yuanshen.exe` 或者 `GenshinImpact.exe`(检查`cfg.ini`查看 injector 是否选择了正确的游戏路径) 
-3. 转到 [我们的 Discord 频道](https://discord.gg/korek) `micah-bot-verify` 频道并输入 `/getkey` 来获取密钥。
+3. 转到 [我们的 Discord 频道]() `micah-bot-verify` 频道并输入 `/getkey` 来获取密钥。
 
 <a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
 <a href="#"><img width="365" height="164" src="https://media.discordapp.net/attachments/1126893908597669989/1144891137224613969/image.png"></a>
@@ -101,7 +101,7 @@
 ### Usage
 
 1. 运行 `v0.x.x.exe`.
-2. 前往 [我们的 discord频道](https://discord.gg/korek) `micah-bot-verify`频道并输入`/verify`，然后粘贴**控制台**中显示的“HWID”以获取**密钥文件**.
+2. 前往 [我们的 discord频道]() `micah-bot-verify`频道并输入`/verify`，然后粘贴**控制台**中显示的“HWID”以获取**密钥文件**.
 
 <a href="#"><img width="965" height="415" src="https://media.discordapp.net/attachments/1126893908597669989/1138425541838516294/Untitled.png"></a>
 <a href="#"><img width="1324" height="320" src="https://media.discordapp.net/attachments/1126893908597669989/1138426358217842858/Untitled.png"></a>
