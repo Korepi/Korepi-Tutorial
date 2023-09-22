@@ -87,7 +87,7 @@
 
 ### Video Tutorial
 
-[![VIDEO TUTORIAL](https://srhscollaborationsuite.weebly.com/uploads/3/8/4/0/38407301/watch-deaddrop-video-button-img_1_orig.png)](http://www.youtube.com/watch?v=imRL9g_Edew "How to use Korepi for PUBLIC")
+[![VIDEO TUTORIAL](https://srhscollaborationsuite.weebly.com/uploads/3/8/4/0/38407301/watch-deaddrop-video-button-img_1_orig.png)](https://www.youtube.com/watch?v=4gm6JzAnq4w_Edew "How to use Korepi for PUBLIC")
 
 ---
 
