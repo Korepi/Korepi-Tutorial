@@ -6,7 +6,7 @@
 <p align="center">
 	<a href="https://github.com/Korepi/keyauth-cpp-library/releases"><img src="https://img.shields.io/github/downloads/Korepi/keyauth-cpp-library/total.svg?style=for-the-badge&color=darkcyan"></a>
 	<a href="https://github.com/Korepi/Korepi/graphs/contributors"><img src="https://img.shields.io/github/contributors/Korepi/Korepi?style=for-the-badge&color=darkcyan"></a>
-	<a href="https://discord.gg/cottonbuds"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
+	<a href=""><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
 </p>
 
 <div align="center">
@@ -45,7 +45,7 @@
 
 ## ❓ verifyနည်း နှင့် fans role ရယူနည်း
 
-1. server ကို join ပါ [Cotton Buds](https://discord.gg/cottonbuds)
+1. server ကို join ပါ [Cotton Buds]()
 2. အဆိုပါ bot ကသင့်ကိုမက်ဆေ့ခ်ျပို့ပေးပါလိမ့်မယ်, အတည်ပြုရန် **verify** ကိုနှိပ်ပါ.
 
 <a href="#"><img width="609" height="294" src="https://media.discordapp.net/attachments/1126893908597669989/1144167784201330748/image.png"></a>
@@ -101,7 +101,7 @@
 ### အသုံးပြုနည်း 
 
 1. `v0.x.x.exe`ကို Run ပါ
-2. [`micah-bot-verify channel`](https://discord.gg/cottonbuds) သိုသွားပြီး `/verify` ကိုရိုက်ထည့်၍ **key file** တစ်ခုရရန် **console** တွင်ပြထားသော သင်၏ `HWID` ကိုထည့်ပါ
+2. [`micah-bot-verify channel`]() သိုသွားပြီး `/verify` ကိုရိုက်ထည့်၍ **key file** တစ်ခုရရန် **console** တွင်ပြထားသော သင်၏ `HWID` ကိုထည့်ပါ
 
 <a href="#"><img width="965" height="415" src="https://media.discordapp.net/attachments/1126893908597669989/1138425541838516294/Untitled.png"></a>
 <a href="#"><img width="1324" height="320" src="https://media.discordapp.net/attachments/1126893908597669989/1138426358217842858/Untitled.png"></a>

@@ -6,7 +6,7 @@
 <p align="center">
 	<a href="https://github.com/Korepi/keyauth-cpp-library/releases"><img src="https://img.shields.io/github/downloads/Korepi/keyauth-cpp-library/total.svg?style=for-the-badge&color=darkcyan"></a>
 	<a href="https://github.com/Korepi/Korepi/graphs/contributors"><img src="https://img.shields.io/github/contributors/Korepi/Korepi?style=for-the-badge&color=darkcyan"></a>
-	<a href="https://discord.gg/cottonbuds"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
+	<a href=""><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
 </p>
 
 <div align="center">
@@ -43,7 +43,7 @@
 
 ## ❓ Comment vérifier et se connecter à discord et obtenir le rôle de fans
 
-1. Rejoindre [Cotton Buds Discord](https://discord.gg/cottonbuds)
+1. Rejoindre [Cotton Buds Discord]()
 2. Vous recevrez le DM de **Double Counter** et cliquez pour **vérifier**
 
 <a href="#"><img width="609" height="294" src="https://media.discordapp.net/attachments/1116676096360972289/1142149237019259030/image.png"></a>
@@ -94,7 +94,7 @@
 
 1. Lancer `injector.exe`.
 2. Sélectionnez `GenshinImpact.exe` ou `YuanShen.exe`. (vérifiez `cfg.ini` pour voir si l'injecteur a choisi le bon chemin de jeu)
-3. Allez sur [notre discord](https://discord.gg/cottonbuds) canal `micah-bot-verify` et tapez `/getkey` pour obtenir une clé.
+3. Allez sur [notre discord]() canal `micah-bot-verify` et tapez `/getkey` pour obtenir une clé.
 
 <a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
 <a href="#"><img width="700" height="200" src="https://media.discordapp.net/attachments/1126893908597669989/1128329417521889350/Untitled.png"></a>
@@ -122,7 +122,7 @@
 
 1. Run `v0.x.x.exe`.
 2. 
-Allez sur [notre discord](https://discord.gg/cottonbuds) canal `micah-bot-verify` et tapez `/verify` puis collez votre `HWID` affiché dans **console** pour obtenir une **clé déposer**.
+Allez sur [notre discord]() canal `micah-bot-verify` et tapez `/verify` puis collez votre `HWID` affiché dans **console** pour obtenir une **clé déposer**.
 
 <a href="#"><img width="965" height="415" src="https://media.discordapp.net/attachments/1126893908597669989/1138425541838516294/Untitled.png"></a>
 <a href="#"><img width="1324" height="320" src="https://media.discordapp.net/attachments/1126893908597669989/1138426358217842858/Untitled.png"></a>

@@ -6,7 +6,7 @@
 <p align="center">
 	<a href="https://github.com/Korepi/keyauth-cpp-library/releases"><img src="https://img.shields.io/github/downloads/Korepi/keyauth-cpp-library/total.svg?style=for-the-badge&color=darkcyan"></a>
 	<a href="https://github.com/Korepi/Korepi/graphs/contributors"><img src="https://img.shields.io/github/contributors/Korepi/Korepi?style=for-the-badge&color=darkcyan"></a>
-	<a href="https://discord.gg/cottonbuds"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
+	<a href=""><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
 </p>
 
 <div align="center">
@@ -45,7 +45,7 @@
 
 ## ❓ 디스코드 인증 및 로그인 + FANS 역할 획득 방법
 
-1. [Cotton Buds 디스코드](https://discord.gg/cottonbuds) 참가합니다.
+1. [Cotton Buds 디스코드]() 참가합니다.
 2. **Account Verification**에게 DM을 받고 **verify**를 클릭하거나 `#account-verify`를 클릭하여 **인증**합니다.
 
 <a href="#"><img width="609" height="294" src="https://media.discordapp.net/attachments/1126893908597669989/1144167784201330748/image.png"></a>
@@ -74,7 +74,7 @@
 
 1. `injector.exe`를 실행합니다.
 2. `GenshinImpact.exe` 또는 `YuanShen.exe` 선택 (`cfg.ini`를 확인하여 인젝터가 올바른 경로로 선택되었는지 확인합니다.)
-3. [우리 디스코드](https://discord.gg/cottonbuds)에 가서 `micah-bot-verify` 채널에 `/getkey`를 입력하여 키를 얻습니다.
+3. [우리 디스코드]()에 가서 `micah-bot-verify` 채널에 `/getkey`를 입력하여 키를 얻습니다.
 
 <a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
 <a href="#"><img width="365" height="164" src="https://media.discordapp.net/attachments/1126893908597669989/1144891137224613969/image.png"></a>
@@ -101,7 +101,7 @@
 ### 사용법
 
 1. `v0.x.x.exe`을 실행합니다.
-2. [디스코드](https://discord.gg/cottonbuds)에 가서 `micah-bot-verify` 채널에 `/verify`를 입력하고 **콘솔**에 표시되는 `HWID`를 붙여넣어 **키 파일**을 얻습니다.
+2. [디스코드]()에 가서 `micah-bot-verify` 채널에 `/verify`를 입력하고 **콘솔**에 표시되는 `HWID`를 붙여넣어 **키 파일**을 얻습니다.
 
 <a href="#"><img width="965" height="415" src="https://media.discordapp.net/attachments/1126893908597669989/1138425541838516294/Untitled.png"></a>
 <a href="#"><img width="1324" height="320" src="https://media.discordapp.net/attachments/1126893908597669989/1138426358217842858/Untitled.png"></a>

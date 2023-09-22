@@ -6,7 +6,7 @@
 <p align="center">
 	<a href="https://github.com/Korepi/keyauth-cpp-library/releases"><img src="https://img.shields.io/github/downloads/Korepi/keyauth-cpp-library/total.svg?style=for-the-badge&color=darkcyan"></a>
 	<a href="https://github.com/Korepi/Korepi/graphs/contributors"><img src="https://img.shields.io/github/contributors/Korepi/Korepi?style=for-the-badge&color=darkcyan"></a>
-	<a href="https://discord.gg/korek"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
+	<a href=""><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
 </p>
 
 <div align="center">
@@ -45,7 +45,7 @@
 
 ## ❓ COMO VERIFICAR E FAZER LOGIN NO DISCORD + COMO OBTER O CARGO FÃS (FANS)
 
-1. Junte-se no [Discord Kitten Buds](https://discord.gg/korek)
+1. Junte-se no [Discord Kitten Buds]()
 2. Você receberá a DM de **Account Verification** e clique para **verify** ou clique em `#account-verify` para **verify**.
 
 <a href="#"><img width="609" height="294" src="https://media.discordapp.net/attachments/1126893908597669989/1144167784201330748/image.png"></a>
@@ -74,7 +74,7 @@
 
 1. Execute `injector.exe`.
 2. Selecione `GenshinImpact.exe` ou `YuanShen.exe`. (Verifique o arquivo `cfg.ini` para ver se o injetor escolheu o caminho correto do jogo)
-3. Acesse [nosso discord](https://discord.gg/korek), canal `micah-bot-verify` e digite `/getkey` para obter uma chave.
+3. Acesse [nosso discord](), canal `micah-bot-verify` e digite `/getkey` para obter uma chave.
 
 <a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
 <a href="#"><img width="365" height="164" src="https://media.discordapp.net/attachments/1126893908597669989/1144891137224613969/image.png"></a>
@@ -101,7 +101,7 @@
 ### Modo de Uso
 
 1. Execute `v0.x.x.exe`.
-2. Acesse [nosso discord](https://discord.gg/korek), canal `micah-bot-verify` e digite `/verify` e cole seu `HWID` exibindo no **console** para obter um **arquivo com a key**.
+2. Acesse [nosso discord](), canal `micah-bot-verify` e digite `/verify` e cole seu `HWID` exibindo no **console** para obter um **arquivo com a key**.
 
 <a href="#"><img width="965" height="415" src="https://media.discordapp.net/attachments/1126893908597669989/1138425541838516294/Untitled.png"></a>
 <a href="#"><img width="1324" height="320" src="https://media.discordapp.net/attachments/1126893908597669989/1138426358217842858/Untitled.png"></a>
