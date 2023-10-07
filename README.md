@@ -64,26 +64,6 @@
 
 ## ❓ For Fans (Required Fan Role)
 
-### Release
-
-1. Head over to the [releases page](https://github.com/Cotton-Buds/colorpicker/releases)
-2. Download the `F` Releases (ex. [F8](https://github.com/Cotton-Buds/colorpicker/releases/tag/F8))
-
-### Usage
-
-1. Run `injector.exe`.
-2. Select `GenshinImpact.exe` or `YuanShen.exe`. (check `cfg.ini` to see if the injector chose the right game path)
-3. Go to [our discord]() `micah-bot-verify` channel and type `/getkey` to get a key.
-
-<a href="#"><img width="300" height="200" src="https://cdn.discordapp.com/attachments/1126893908597669989/1128329159559622676/image.png"></a>
-<a href="#"><img width="365" height="164" src="https://media.discordapp.net/attachments/1126893908597669989/1144891137224613969/image.png"></a>
-
-4. Copy the key you got into the injector when it asked.
-5. Game will be launched automatically, wait for the interface to appear.
-6. Press `TAB` to open [Korepi](https://github.com/Korepi/Korepi) GUI.
-
-<a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
-
 ### Video Tutorial
 
 [![VIDEO TUTORIAL](https://srhscollaborationsuite.weebly.com/uploads/3/8/4/0/38407301/watch-deaddrop-video-button-img_1_orig.png)](https://www.youtube.com/watch?v=4gm6JzAnq4w_Edew "How to use Korepi for PUBLIC")
