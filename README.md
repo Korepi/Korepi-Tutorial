@@ -42,29 +42,9 @@
 
 ---
 
-## ❓ HOW TO VERIFY & SIGN-IN DISCORD + GETTING FANS ROLE
-
-1. Join [Cotton Buds Discord]()
-2. You will receive the DM from **Account Verification** and click to **verify** or click to `#account-verify` to **verify**.
-
-<a href="#"><img width="609" height="294" src="https://media.discordapp.net/attachments/1126893908597669989/1144167784201330748/image.png"></a>
-
-3. Direct message to **micah-sign-bot** with `/sign-in`
-
-<a href="#"><img width="329" height="435" src="https://media.discordapp.net/attachments/1116676096360972289/1142149975325814864/image.png"></a>
-
-4. Reply the bot to get signed
-
-<a href="#"><img width="492" height="293" src="https://media.discordapp.net/attachments/1116676096360972289/1142149176189268060/Untitled.png"></a>
-
-5. You must do this for 7 days then you will get a **Fans** role. If you have **Sponsor** role, just need 3 days
-
-
----
-
 ## ❓ F Versions (Required Fan Role)
 
-### Video Tutorial
+### Video Tutorial (included how to get fans role)
 
 [![VIDEO TUTORIAL](https://srhscollaborationsuite.weebly.com/uploads/3/8/4/0/38407301/watch-deaddrop-video-button-img_1_orig.png)](https://www.youtube.com/watch?v=4gm6JzAnq4w_Edew "How to use Korepi for PUBLIC")
 
