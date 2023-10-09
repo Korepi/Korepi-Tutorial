@@ -53,26 +53,9 @@
 
 ## ❓ V Versions Tutorials (Required Fan Role)
 
-### Release
+### Video Tutorial (included how to get fans role)
 
-1. Head over to the [releases page](https://github.com/Cotton-Buds/calculator/releases)
-2. Download the `v0.x.x` Releases (ex. [v0.9.7](https://github.com/Cotton-Buds/calculator/releases/tag/v0.9.7))
-
-### Usage
-
-1. Run `v0.x.x.exe`.
-2. Go to [our discord]() `micah-bot-verify` channel and type `/verify` then paste your `HWID` displaying in **console** to get a **key file**.
-
-<a href="#"><img width="965" height="415" src="https://media.discordapp.net/attachments/1126893908597669989/1138425541838516294/Untitled.png"></a>
-<a href="#"><img width="1324" height="320" src="https://media.discordapp.net/attachments/1126893908597669989/1138426358217842858/Untitled.png"></a>
-
-3. Download the **key file** and put it into the folder ensure that `enc.json` is in the same folder that `v0.x.x.exe`
-4. Run `v0.x.x.exe` again.
-5. Select `GenshinImpact.exe` or `YuanShen.exe`. (check `cfg.ini` to see if the injector chose the right game path)
-6. Game will be launched automatically, wait for the interface to appear.
-7. Press `TAB` to open [Korepi](https://github.com/Korepi/Korepi) GUI.
-
-<a href="#"><img width="270" height="200" src="https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba9fcbbcb694.png"></a>
+[![VIDEO TUTORIAL](https://srhscollaborationsuite.weebly.com/uploads/3/8/4/0/38407301/watch-deaddrop-video-button-img_1_orig.png)](https://www.youtube.com/watch?v=Xji-wVp4juI_Edew "How to use Korepi for PUBLIC")
 
 ---
 
