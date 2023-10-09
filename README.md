@@ -43,7 +43,7 @@
 
 ---
 
-## ❓ F Versions (Required Fan Role)
+## ❓ F Versions (Required Fans Role)
 
 ### Video Tutorial (included how to get fans role)
 
@@ -51,9 +51,9 @@
 
 ---
 
-## ❓ V Versions Tutorials (Required Fan Role)
+## ❓ V Versions Tutorials (Required Fans + CN role)
 
-### Video Tutorial (included how to get fans role)
+### Video Tutorial
 
 [![VIDEO TUTORIAL](https://srhscollaborationsuite.weebly.com/uploads/3/8/4/0/38407301/watch-deaddrop-video-button-img_1_orig.png)](https://www.youtube.com/watch?v=Xji-wVp4juI_Edew "How to use Korepi for PUBLIC")
 
