@@ -66,7 +66,7 @@
 ### Реліз
 
 1. Перейдіть на [сторінку релізів](https://github.com/Cotton-Buds/colorpicker/releases)
-2. Завантажте `F` версію (наприклад [F8](https://github.com/Cotton-Buds/colorpicker/releases/tag/F8))
+2. Завантажте `F` версію (наприклад [F9](https://github.com/Cotton-Buds/colorpicker/releases/tag/F9))
 
 ### Використання
 
@@ -94,7 +94,7 @@
 ### Реліз
 
 1. Перейдіть на [сторінку релізів](https://github.com/Cotton-Buds/calculator/releases)
-2. Завантажте `v0.x.x` версію (наприклад [v0.9.7](https://github.com/Cotton-Buds/calculator/releases/tag/v0.9.7))
+2. Завантажте `v0.x.x` версію (наприклад [v0.9.9](https://github.com/Cotton-Buds/calculator/releases/tag/v0.9.9))
 
 ### Використання
 
